@@ -1,0 +1,1113 @@
+id,year,team1,score1,score2,team2,Play Off Game?,Home Odds,Draw Odds,Away Odds,Bookmakers Surveyed,Date,Kick-off (local)
+0,2016,Western Sydney,2,2,Newcastle Jets,N,1.78,3.88,4.26,14,23-Oct-16,19:00
+1,2016,Wellington Phoenix,0,1,Sydney FC,N,3.61,3.6,2,14,23-Oct-16,19:00
+2,2016,Adelaide Utd,1,2,Melbourne Victory,N,2.47,3.44,2.78,14,22-Oct-16,19:20
+3,2016,Central Coast Mariners,0,1,Brisbane Roar,N,4.36,4.03,1.73,14,22-Oct-16,17:35
+4,2016,Melbourne City,2,3,Perth Glory,N,1.5,4.56,5.78,14,21-Oct-16,19:50
+5,2016,Perth Glory,2,0,Wellington Phoenix,N,1.75,3.91,4.38,13,16-Oct-16,16:00
+6,2016,Newcastle Jets,4,0,Brisbane Roar,N,3.42,3.58,2.05,13,16-Oct-16,17:00
+7,2016,Melbourne Victory,1,4,Melbourne City,N,2.34,3.49,2.87,14,15-Oct-16,19:50
+8,2016,Sydney FC,4,0,Central Coast Mariners,N,1.27,6.03,9.95,14,15-Oct-16,17:35
+9,2016,Adelaide Utd,1,2,Western Sydney,N,1.91,3.64,3.82,14,14-Oct-16,19:20
+10,2016,Newcastle Jets,1,1,Adelaide Utd,N,3.11,3.41,2.25,15,09-Oct-16,17:00
+11,2016,Perth Glory,3,3,Central Coast Mariners,N,1.38,4.91,7.5,15,08-Oct-16,19:00
+12,2016,Western Sydney,0,4,Sydney FC,N,3.26,3.37,2.19,15,08-Oct-16,19:50
+13,2016,Wellington Phoenix,0,1,Melbourne City,N,3.76,3.85,1.87,15,08-Oct-16,19:35
+14,2016,Brisbane Roar,1,1,Melbourne Victory,N,2.35,3.42,2.93,15,07-Oct-16,18:50
+15,2016,Adelaide Utd,3,1,Western Sydney,Y,2.44,3.27,2.89,16,01-May-16,15:30
+16,2016,Western Sydney,4,4,Brisbane Roar,Y,1.94,3.67,3.69,16,24-Apr-16,17:00
+17,2016,Adelaide Utd,4,1,Melbourne City,Y,1.89,3.7,3.8,16,22-Apr-16,19:15
+18,2016,Melbourne City,2,0,Perth Glory,Y,2.27,3.53,2.98,16,17-Apr-16,17:00
+19,2016,Brisbane Roar,2,1,Melbourne Victory,Y,2.14,3.54,3.2,16,15-Apr-16,19:35
+20,2016,Sydney FC,4,0,Perth Glory,N,2.71,3.46,2.47,16,10-Apr-16,17:00
+21,2016,Wellington Phoenix,0,2,Western Sydney,N,8.21,5.55,1.32,16,10-Apr-16,17:00
+22,2016,Melbourne Victory,0,0,Brisbane Roar,N,4.19,4,1.74,16,09-Apr-16,19:30
+23,2016,Central Coast Mariners,2,4,Newcastle Jets,N,2.72,3.52,2.44,16,09-Apr-16,17:15
+24,2016,Melbourne City,0,2,Adelaide Utd,N,2.08,3.82,3.06,16,08-Apr-16,19:40
+25,2016,Perth Glory,3,2,Melbourne City,N,2.61,3.72,2.43,16,03-Apr-16,17:00
+26,2016,Brisbane Roar,2,1,Newcastle Jets,N,1.35,5.3,7.7,16,03-Apr-16,17:00
+27,2016,Sydney FC,0,2,Adelaide Utd,N,3.39,3.7,2.02,16,02-Apr-16,19:30
+28,2016,Wellington Phoenix,1,4,Melbourne Victory,N,3.87,3.53,1.9,16,02-Apr-16,19:15
+29,2016,Western Sydney,4,1,Central Coast Mariners,N,1.21,6.56,11.78,16,01-Apr-16,19:40
+30,2016,Melbourne City,3,0,Wellington Phoenix,N,1.51,4.62,5.46,16,28-Mar-16,19:30
+31,2016,Adelaide Utd,4,2,Central Coast Mariners,N,1.28,5.69,9.29,16,27-Mar-16,16:30
+32,2016,Brisbane Roar,3,2,Sydney FC,N,1.9,3.71,3.68,16,26-Mar-16,18:30
+33,2016,Newcastle Jets,1,2,Perth Glory,N,3.81,3.74,1.88,16,26-Mar-16,17:15
+34,2016,Melbourne Victory,2,0,Western Sydney,N,2.67,3.41,2.53,16,25-Mar-16,19:40
+35,2016,Melbourne Victory,1,1,Newcastle Jets,N,1.39,4.88,7.29,16,20-Mar-16,17:00
+36,2016,Wellington Phoenix,1,2,Perth Glory,N,2.55,3.58,2.56,16,20-Mar-16,17:00
+37,2016,Western Sydney,0,0,Adelaide Utd,N,1.77,3.9,4.11,16,19-Mar-16,19:30
+38,2016,Central Coast Mariners,2,2,Sydney FC,N,5.76,4.29,1.53,16,19-Mar-16,17:15
+39,2016,Melbourne City,3,1,Brisbane Roar,N,2.12,3.79,3.04,16,18-Mar-16,19:40
+40,2016,Newcastle Jets,0,1,Western Sydney,N,4.8,4.06,1.65,16,13-Mar-16,17:00
+41,2016,Perth Glory,4,0,Central Coast Mariners,N,1.37,5.15,7.38,16,12-Mar-16,16:40
+42,2016,Brisbane Roar,5,0,Melbourne Victory,N,2.35,3.51,2.86,16,12-Mar-16,18:30
+43,2016,Sydney FC,1,3,Wellington Phoenix,N,1.61,4.16,5.07,16,12-Mar-16,17:15
+44,2016,Adelaide Utd,0,1,Melbourne City,N,1.98,3.84,3.37,16,11-Mar-16,19:10
+45,2016,Perth Glory,2,0,Newcastle Jets,N,1.52,4.38,5.6,16,07-Mar-16,17:00
+46,2016,Central Coast Mariners,0,2,Melbourne Victory,N,6.04,4.5,1.48,16,06-Mar-16,17:00
+47,2016,Melbourne City,3,0,Sydney FC,N,2.06,3.64,3.27,16,05-Mar-16,19:30
+48,2016,Wellington Phoenix,0,4,Adelaide Utd,N,3.06,3.65,2.17,16,05-Mar-16,19:15
+49,2016,Brisbane Roar,3,2,Western Sydney,N,2.14,3.53,3.11,16,04-Mar-16,19:00
+50,2016,Central Coast Mariners,0,1,Newcastle Jets,N,2.89,3.56,2.31,16,28-Feb-16,17:00
+51,2016,Melbourne Victory,1,1,Sydney FC,N,2.1,3.56,3.27,16,27-Feb-16,19:30
+52,2016,Adelaide Utd,3,0,Brisbane Roar,N,2.17,3.55,3.12,16,27-Feb-16,16:45
+53,2016,Western Sydney,2,1,Perth Glory,N,1.6,4.2,4.83,16,26-Feb-16,19:40
+54,2016,Wellington Phoenix,2,1,Melbourne City,N,2.7,3.7,2.36,16,26-Feb-16,19:30
+55,2016,Melbourne City,4,1,Central Coast Mariners,N,1.47,4.92,5.59,16,21-Feb-16,17:00
+56,2016,Perth Glory,6,3,Brisbane Roar,N,2.71,3.48,2.46,16,20-Feb-16,16:40
+57,2016,Sydney FC,1,1,Western Sydney,N,2.56,3.44,2.63,16,20-Feb-16,19:30
+58,2016,Newcastle Jets,3,2,Wellington Phoenix,N,2.56,3.55,2.58,16,20-Feb-16,17:15
+59,2016,Melbourne Victory,0,1,Adelaide Utd,N,1.99,3.65,3.49,16,19-Feb-16,19:40
+60,2016,Central Coast Mariners,2,3,Adelaide Utd,N,4.42,3.96,1.72,16,14-Feb-16,19:00
+61,2016,Western Sydney,2,5,Wellington Phoenix,N,1.47,4.45,6.28,16,14-Feb-16,17:00
+62,2016,Melbourne City,2,2,Melbourne Victory,N,2.85,3.64,2.25,16,13-Feb-16,19:30
+63,2016,Sydney FC,1,2,Perth Glory,N,1.63,4.01,5.08,16,13-Feb-16,17:15
+64,2016,Brisbane Roar,2,2,Newcastle Jets,N,1.41,4.78,6.98,16,12-Feb-16,19:00
+65,2016,Newcastle Jets,2,1,Melbourne City,N,4.24,4.09,1.72,16,07-Feb-16,17:00
+66,2016,Wellington Phoenix,0,1,Perth Glory,N,2.59,3.54,2.55,16,07-Feb-16,17:00
+67,2016,Melbourne Victory,1,1,Western Sydney,N,2.37,3.45,2.85,16,06-Feb-16,19:30
+68,2016,Brisbane Roar,4,0,Central Coast Mariners,N,1.33,5.42,8.14,16,06-Feb-16,16:15
+69,2016,Adelaide Utd,2,2,Sydney FC,N,2.34,3.4,2.92,16,05-Feb-16,19:10
+70,2016,Adelaide Utd,1,0,Newcastle Jets,N,1.3,5.48,9.43,14,31-Jan-16,16:30
+71,2016,Perth Glory,3,2,Melbourne Victory,N,3.73,3.73,1.92,14,30-Jan-16,18:40
+72,2016,Sydney FC,1,3,Brisbane Roar,N,2.07,3.39,3.54,14,30-Jan-16,19:30
+73,2016,Wellington Phoenix,1,3,Central Coast Mariners,N,2.22,3.57,3.07,14,30-Jan-16,19:15
+74,2016,Western Sydney,4,3,Melbourne City,N,1.76,4.04,4.1,14,29-Jan-16,19:40
+75,2016,Melbourne Victory,1,0,Sydney FC,N,1.97,3.43,3.72,14,26-Jan-16,19:30
+76,2016,Melbourne City,3,1,Wellington Phoenix,N,1.5,4.7,5.62,14,25-Jan-16,19:30
+77,2016,Newcastle Jets,1,6,Perth Glory,N,2.64,3.28,2.68,14,24-Jan-16,17:00
+78,2016,Central Coast Mariners,1,2,Western Sydney,N,6.15,4.3,1.51,14,23-Jan-16,19:30
+79,2016,Brisbane Roar,1,4,Adelaide Utd,N,2.19,3.51,3.1,14,22-Jan-16,19:00
+80,2016,Newcastle Jets,3,1,Wellington Phoenix,N,2.47,3.27,2.86,13,17-Jan-16,17:00
+81,2016,Perth Glory,2,2,Melbourne City,N,2.94,3.69,2.21,13,16-Jan-16,18:40
+82,2016,Western Sydney,1,2,Sydney FC,N,2.04,3.39,3.64,13,16-Jan-16,19:30
+83,2016,Adelaide Utd,3,1,Central Coast Mariners,N,1.42,4.72,6.78,13,16-Jan-16,16:45
+84,2016,Melbourne Victory,4,0,Brisbane Roar,N,2.24,3.45,3.1,13,15-Jan-16,19:40
+85,2016,Wellington Phoenix,0,0,Brisbane Roar,N,3.87,3.63,1.89,13,10-Jan-16,19:00
+86,2016,Perth Glory,1,3,Adelaide Utd,N,3.16,3.42,2.19,13,09-Jan-16,18:40
+87,2016,Melbourne City,3,2,Western Sydney,N,2.69,3.58,2.43,13,09-Jan-16,19:30
+88,2016,Sydney FC,2,0,Newcastle Jets,N,1.44,4.49,6.82,13,09-Jan-16,17:15
+89,2016,Central Coast Mariners,3,3,Melbourne Victory,N,6.82,4.57,1.44,13,08-Jan-16,19:40
+90,2016,Newcastle Jets,0,1,Melbourne Victory,N,5.4,4.01,1.61,14,03-Jan-16,17:00
+91,2016,Melbourne City,2,2,Sydney FC,N,2.72,3.47,2.47,14,02-Jan-16,19:30
+92,2016,Brisbane Roar,2,1,Perth Glory,N,1.49,4.27,6.63,14,02-Jan-16,16:15
+93,2016,Western Sydney,0,0,Adelaide Utd,N,1.81,3.62,4.39,14,01-Jan-16,19:40
+94,2015,Central Coast Mariners,3,1,Wellington Phoenix,N,2.87,3.42,2.34,14,31-Dec-15,19:00
+95,2015,Brisbane Roar,3,1,Melbourne City,N,2.15,3.64,3.12,15,27-Dec-15,18:00
+96,2015,Melbourne Victory,1,1,Perth Glory,N,1.39,4.74,8.01,15,27-Dec-15,17:00
+97,2015,Sydney FC,4,1,Central Coast Mariners,N,1.43,4.57,7.11,15,26-Dec-15,19:30
+98,2015,Adelaide Utd,3,0,Wellington Phoenix,N,1.68,3.94,4.79,15,26-Dec-15,16:45
+99,2015,Western Sydney,2,0,Newcastle Jets,N,1.39,4.79,7.8,15,24-Dec-15,19:00
+100,2015,Central Coast Mariners,0,1,Brisbane Roar,N,4.53,3.81,1.74,15,20-Dec-15,17:00
+101,2015,Perth Glory,2,2,Western Sydney,N,3.91,3.47,1.95,15,19-Dec-15,18:40
+102,2015,Melbourne City,2,1,Melbourne Victory,N,2.48,3.54,2.69,15,19-Dec-15,19:30
+103,2015,Wellington Phoenix,1,1,Sydney FC,N,2.51,3.42,2.73,15,19-Dec-15,19:15
+104,2015,Newcastle Jets,0,0,Adelaide Utd,N,3.5,3.53,2.09,15,18-Dec-15,19:40
+105,2015,Perth Glory,1,0,Melbourne Victory,N,3.69,3.57,1.97,15,16-Dec-15,18:00
+106,2015,Newcastle Jets,0,4,Melbourne City,N,3.94,3.75,1.85,15,13-Dec-15,17:00
+107,2015,Perth Glory,2,1,Central Coast Mariners,N,1.93,3.53,3.89,15,12-Dec-15,18:40
+108,2015,Western Sydney,2,0,Melbourne Victory,N,2.42,3.41,2.84,15,12-Dec-15,19:30
+109,2015,Brisbane Roar,2,1,Wellington Phoenix,N,1.96,3.46,3.86,15,12-Dec-15,16:15
+110,2015,Adelaide Utd,2,1,Sydney FC,N,2.57,3.35,2.7,15,11-Dec-15,19:10
+111,2015,Adelaide Utd,1,0,Perth Glory,N,1.8,3.76,4.45,15,06-Dec-15,19:00
+112,2015,Western Sydney,2,1,Brisbane Roar,N,1.95,3.54,3.8,15,05-Dec-15,19:30
+113,2015,Wellington Phoenix,2,0,Melbourne Victory,N,3.5,3.71,1.99,15,05-Dec-15,19:15
+114,2015,Sydney FC,1,0,Newcastle Jets,N,1.51,4.38,5.97,15,04-Dec-15,19:40
+115,2015,Central Coast Mariners,1,5,Melbourne City,N,3.6,3.81,1.93,15,03-Dec-15,20:00
+116,2015,Central Coast Mariners,0,2,Western Sydney,N,3.7,3.7,1.93,15,29-Nov-15,17:00
+117,2015,Melbourne Victory,2,1,Adelaide Utd,N,1.58,4.29,5.08,15,28-Nov-15,19:30
+118,2015,Newcastle Jets,1,1,Brisbane Roar,N,3.7,3.54,1.97,15,28-Nov-15,17:15
+119,2015,Melbourne City,5,1,Perth Glory,N,1.63,4.07,4.98,15,27-Nov-15,19:40
+120,2015,Sydney FC,0,0,Wellington Phoenix,N,1.81,3.72,4.18,15,26-Nov-15,20:00
+121,2015,Adelaide Utd,0,0,Newcastle Jets,N,1.67,4.05,4.69,15,22-Nov-15,16:30
+122,2015,Perth Glory,0,0,Sydney FC,N,3.31,3.42,2.14,15,21-Nov-15,16:30
+123,2015,Western Sydney,2,1,Wellington Phoenix,N,1.72,3.83,4.65,15,21-Nov-15,17:15
+124,2015,Brisbane Roar,1,1,Melbourne City,N,1.92,3.7,3.71,15,20-Nov-15,19:00
+125,2015,Melbourne Victory,2,1,Central Coast Mariners,N,1.42,4.86,6.58,15,19-Nov-15,20:00
+126,2015,Brisbane Roar,1,0,Perth Glory,N,1.68,3.93,4.81,15,15-Nov-15,16:00
+127,2015,Sydney FC,2,4,Melbourne Victory,N,2.59,3.42,2.62,15,14-Nov-15,19:30
+128,2015,Newcastle Jets,1,1,Central Coast Mariners,N,2.25,3.42,3.09,15,14-Nov-15,17:15
+129,2015,Melbourne City,0,3,Western Sydney,N,2.4,3.45,2.78,15,13-Nov-15,19:40
+130,2015,Wellington Phoenix,4,2,Adelaide Utd,N,2.46,3.47,2.72,15,13-Nov-15,19:30
+131,2015,Central Coast Mariners,1,1,Wellington Phoenix,N,2.66,3.55,2.49,16,08-Nov-15,17:00
+132,2015,Newcastle Jets,1,2,Western Sydney,N,3.49,3.45,2.04,16,07-Nov-15,17:15
+133,2015,Sydney FC,0,0,Brisbane Roar,N,2.14,3.6,3.16,16,06-Nov-15,19:40
+134,2015,Adelaide Utd,2,4,Melbourne City,N,2.3,3.48,2.97,16,05-Nov-15,19:30
+135,2015,Melbourne Victory,3,0,Wellington Phoenix,N,1.57,4.32,5.25,16,02-Nov-15,19:30
+136,2015,Western Sydney,1,0,Perth Glory,N,1.75,3.71,4.56,16,01-Nov-15,17:00
+137,2015,Brisbane Roar,3,0,Adelaide Utd,N,2.17,3.5,3.17,16,31-Oct-15,18:30
+138,2015,Central Coast Mariners,1,3,Sydney FC,N,3.34,3.57,2.08,16,31-Oct-15,17:15
+139,2015,Melbourne City,2,3,Newcastle Jets,N,1.64,3.96,5.01,16,30-Oct-15,19:40
+140,2015,Perth Glory,3,1,Adelaide Utd,N,2.79,3.33,2.5,16,25-Oct-15,16:00
+141,2015,Melbourne City,3,1,Central Coast Mariners,N,1.74,3.89,4.37,16,25-Oct-15,17:00
+142,2015,Sydney FC,1,0,Western Sydney,N,2.13,3.4,3.35,16,24-Oct-15,19:30
+143,2015,Wellington Phoenix,3,2,Brisbane Roar,N,2.39,3.5,2.81,16,24-Oct-15,19:15
+144,2015,Newcastle Jets,1,0,Melbourne Victory,N,5.17,4.06,1.61,16,23-Oct-15,19:40
+145,2015,Perth Glory,1,2,Wellington Phoenix,N,2.17,3.5,3.18,16,18-Oct-15,16:00
+146,2015,Brisbane Roar,2,1,Central Coast Mariners,N,1.81,3.71,4.19,16,18-Oct-15,16:00
+147,2015,Melbourne Victory,3,2,Melbourne City,N,1.92,3.65,3.75,16,17-Oct-15,19:30
+148,2015,Newcastle Jets,0,1,Sydney FC,N,3.57,3.56,2.01,16,17-Oct-15,15:15
+149,2015,Adelaide Utd,1,1,Western Sydney,N,1.86,3.6,4.1,16,16-Oct-15,19:10
+150,2015,Wellington Phoenix,1,2,Newcastle Jets,N,1.72,3.83,4.58,16,11-Oct-15,19:00
+151,2015,Sydney FC,1,1,Melbourne City,N,2.07,3.56,3.36,16,10-Oct-15,19:30
+152,2015,Central Coast Mariners,3,2,Perth Glory,N,2.57,3.24,2.75,16,10-Oct-15,17:15
+153,2015,Adelaide Utd,0,0,Melbourne Victory,N,2.72,3.51,2.44,16,09-Oct-15,19:10
+154,2015,Western Sydney,1,3,Brisbane Roar,N,2.18,3.38,3.26,16,08-Oct-15,20:00
+155,2015,Melbourne Victory,3,0,Sydney FC,Y,2.12,3.41,3.33,17,16-May-15,16:00
+156,2015,Sydney FC,4,1,Adelaide Utd,Y,2.21,3.38,3.16,17,09-May-15,19:30
+157,2015,Melbourne Victory,3,0,Melbourne City,Y,1.92,3.55,3.8,17,08-May-15,19:30
+158,2015,Wellington Phoenix,0,2,Melbourne City,Y,2.09,3.42,3.4,17,03-May-15,19:00
+159,2015,Adelaide Utd,2,1,Brisbane Roar,Y,1.87,3.59,3.99,17,01-May-15,19:30
+160,2015,Melbourne Victory,3,1,Central Coast Mariners,N,1.37,4.96,7.47,17,26-Apr-15,17:00
+161,2015,Wellington Phoenix,1,2,Sydney FC,N,2.33,3.56,2.82,17,26-Apr-15,17:00
+162,2015,Adelaide Utd,4,1,Melbourne City,N,1.97,3.57,3.57,17,25-Apr-15,19:00
+163,2015,Western Sydney,1,2,Perth Glory,N,2.3,3.42,2.95,17,25-Apr-15,17:00
+164,2015,Brisbane Roar,2,1,Newcastle Jets,N,1.93,3.78,3.5,17,24-Apr-15,19:40
+165,2015,Perth Glory,3,1,Melbourne City,N,2.72,3.42,2.46,17,19-Apr-15,13:00
+166,2015,Brisbane Roar,0,1,Melbourne Victory,N,3.92,3.75,1.83,17,18-Apr-15,19:30
+167,2015,Western Sydney,2,1,Adelaide Utd,N,3.51,3.49,2.03,17,18-Apr-15,17:00
+168,2015,Newcastle Jets,3,4,Sydney FC,N,6.21,4.41,1.47,17,17-Apr-15,19:45
+169,2015,Wellington Phoenix,3,2,Central Coast Mariners,N,1.53,4.18,5.62,17,17-Apr-15,19:30
+170,2015,Brisbane Roar,1,2,Melbourne Victory,N,2.69,3.47,2.46,17,15-Apr-15,19:40
+171,2015,Melbourne City,0,0,Wellington Phoenix,N,1.94,3.66,3.6,17,12-Apr-15,17:00
+172,2015,Central Coast Mariners,1,0,Western Sydney,N,2.62,3.32,2.6,17,11-Apr-15,19:30
+173,2015,Adelaide Utd,2,3,Brisbane Roar,N,1.63,3.93,4.98,17,11-Apr-15,16:30
+174,2015,Perth Glory,0,3,Sydney FC,N,2.94,3.47,2.29,17,10-Apr-15,19:45
+175,2015,Melbourne Victory,0,1,Newcastle Jets,N,1.23,6.18,10.79,17,10-Apr-15,19:40
+176,2015,Newcastle Jets,0,2,Perth Glory,N,3.88,3.54,1.89,16,06-Apr-15,17:00
+177,2015,Wellington Phoenix,0,3,Melbourne Victory,N,2.49,3.44,2.64,16,05-Apr-15,19:00
+178,2015,Sydney FC,0,1,Adelaide Utd,N,2.3,3.41,2.93,16,04-Apr-15,19:30
+179,2015,Western Sydney,1,1,Melbourne City,N,2.92,3.38,2.33,16,03-Apr-15,19:40
+180,2015,Brisbane Roar,6,1,Central Coast Mariners,N,1.87,3.56,3.95,16,02-Apr-15,19:00
+181,2015,Newcastle Jets,0,1,Adelaide Utd,N,5.33,4.01,1.59,17,29-Mar-15,17:00
+182,2015,Wellington Phoenix,0,3,Sydney FC,N,2.22,3.48,3.01,16,29-Mar-15,17:00
+183,2015,Perth Glory,3,2,Western Sydney,N,1.71,3.83,4.57,17,28-Mar-15,18:30
+184,2015,Melbourne City,1,0,Brisbane Roar,N,1.75,3.76,4.41,17,28-Mar-15,19:30
+185,2015,Melbourne Victory,2,1,Central Coast Mariners,N,1.5,4.35,5.87,17,27-Mar-15,19:40
+186,2015,Brisbane Roar,1,4,Western Sydney,N,1.82,3.58,4.25,17,25-Mar-15,19:00
+187,2015,Brisbane Roar,1,2,Wellington Phoenix,N,2.07,3.48,3.33,17,22-Mar-15,16:00
+188,2015,Central Coast Mariners,1,1,Perth Glory,N,2.76,3.27,2.51,17,22-Mar-15,15:00
+189,2015,Adelaide Utd,2,2,Melbourne Victory,N,1.97,3.58,3.58,17,21-Mar-15,19:00
+190,2015,Western Sydney,1,2,Newcastle Jets,N,1.9,3.49,3.98,17,21-Mar-15,17:00
+191,2015,Sydney FC,0,1,Melbourne City,N,1.84,3.73,3.95,17,20-Mar-15,19:40
+192,2015,Sydney FC,5,4,Brisbane Roar,N,1.95,3.5,3.74,17,15-Mar-15,17:00
+193,2015,Perth Glory,1,2,Wellington Phoenix,N,1.93,3.56,3.71,17,14-Mar-15,18:30
+194,2015,Melbourne City,4,0,Newcastle Jets,N,1.4,4.68,7.11,17,14-Mar-15,19:30
+195,2015,Western Sydney,0,3,Melbourne Victory,N,3.85,3.63,1.89,17,13-Mar-15,19:40
+196,2015,Adelaide Utd,2,1,Central Coast Mariners,N,1.4,4.66,7.34,17,12-Mar-15,19:00
+197,2015,Western Sydney,3,2,Melbourne City,N,2.73,3.2,2.52,17,11-Mar-15,19:30
+198,2015,Brisbane Roar,1,0,Western Sydney,N,1.81,3.53,4.31,16,08-Mar-15,16:00
+199,2015,Central Coast Mariners,1,0,Melbourne City,N,3.14,3.37,2.21,17,08-Mar-15,15:00
+200,2015,Melbourne Victory,1,1,Perth Glory,N,1.75,3.71,4.41,17,07-Mar-15,19:30
+201,2015,Wellington Phoenix,2,0,Adelaide Utd,N,2.83,3.46,2.35,17,07-Mar-15,17:00
+202,2015,Newcastle Jets,0,1,Sydney FC,N,4.59,3.83,1.7,17,06-Mar-15,19:40
+203,2015,Melbourne Victory,2,3,Wellington Phoenix,N,1.68,3.94,4.6,17,01-Mar-15,17:00
+204,2015,Perth Glory,2,2,Brisbane Roar,N,2.05,3.35,3.58,17,28-Feb-15,21:30
+205,2015,Western Sydney,3,4,Sydney FC,N,3.09,3.4,2.23,17,28-Feb-15,19:30
+206,2015,Newcastle Jets,0,0,Central Coast Mariners,N,2.91,3.33,2.36,17,28-Feb-15,17:00
+207,2015,Melbourne City,3,1,Adelaide Utd,N,2.72,3.38,2.48,17,27-Feb-15,19:40
+208,2015,Melbourne City,0,0,Perth Glory,N,2.12,3.37,3.31,17,22-Feb-15,17:00
+209,2015,Wellington Phoenix,2,2,Newcastle Jets,N,1.41,4.62,7.01,17,22-Feb-15,17:00
+210,2015,Adelaide Utd,2,1,Western Sydney,N,1.49,4.21,6.19,17,21-Feb-15,19:00
+211,2015,Sydney FC,4,2,Central Coast Mariners,N,1.54,4.03,5.7,17,21-Feb-15,17:00
+212,2015,Adelaide Utd,1,1,Perth Glory,N,1.73,3.72,4.5,17,15-Feb-15,16:30
+213,2015,Sydney FC,3,3,Melbourne Victory,N,2.61,3.41,2.53,17,14-Feb-15,19:30
+214,2015,Newcastle Jets,1,1,Western Sydney,N,3.46,3.47,2.03,17,14-Feb-15,17:00
+215,2015,Wellington Phoenix,0,0,Melbourne City,N,1.97,3.58,3.53,17,14-Feb-15,17:00
+216,2015,Central Coast Mariners,0,2,Brisbane Roar,N,2.7,3.22,2.56,17,13-Feb-15,19:40
+217,2015,Western Sydney,2,0,Wellington Phoenix,N,2.53,3.29,2.68,17,08-Feb-15,17:00
+218,2015,Perth Glory,1,3,Sydney FC,N,1.92,3.48,3.8,17,07-Feb-15,18:30
+219,2015,Melbourne Victory,3,0,Melbourne City,N,2.02,3.54,3.41,17,07-Feb-15,19:30
+220,2015,Central Coast Mariners,2,1,Adelaide Utd,N,4.13,3.53,1.83,17,07-Feb-15,17:00
+221,2015,Newcastle Jets,1,2,Brisbane Roar,N,4.45,3.7,1.74,16,06-Feb-15,19:40
+222,2015,Brisbane Roar,3,2,Wellington Phoenix,N,2.3,3.39,2.93,17,02-Feb-15,20:00
+223,2015,Melbourne City,2,1,Western Sydney,N,1.92,3.45,3.84,17,01-Feb-15,17:00
+224,2015,Perth Glory,3,3,Melbourne Victory,N,2.13,3.38,3.26,17,25-Jan-15,20:00
+225,2015,Central Coast Mariners,1,5,Sydney FC,N,2.67,3.16,2.63,17,24-Jan-15,19:30
+226,2015,Adelaide Utd,7,0,Newcastle Jets,N,1.41,4.36,7.49,17,24-Jan-15,17:00
+227,2015,Western Sydney,1,2,Melbourne Victory,N,2.83,3.38,2.38,16,06-Jan-15,19:30
+228,2015,Perth Glory,1,2,Adelaide Utd,N,2.23,3.29,3.12,16,05-Jan-15,17:30
+229,2015,Central Coast Mariners,2,0,Melbourne City,N,3.07,3.3,2.26,16,04-Jan-15,17:00
+230,2015,Wellington Phoenix,3,0,Brisbane Roar,N,2.08,3.36,3.42,16,04-Jan-15,17:00
+231,2015,Sydney FC,0,0,Newcastle Jets,N,1.76,3.61,4.46,16,03-Jan-15,19:30
+232,2015,Melbourne Victory,1,2,Perth Glory,N,2.05,3.39,3.46,16,02-Jan-15,19:40
+233,2015,Western Sydney,0,0,Central Coast Mariners,N,2,3.3,3.75,16,01-Jan-15,19:30
+234,2014,Adelaide Utd,1,3,Wellington Phoenix,N,1.75,3.68,4.58,16,31-Dec-14,19:00
+235,2014,Brisbane Roar,0,0,Sydney FC,N,2.1,3.32,3.43,16,30-Dec-14,19:00
+236,2014,Newcastle Jets,2,5,Melbourne City,N,3.03,3.28,2.3,16,30-Dec-14,17:00
+237,2014,Wellington Phoenix,1,0,Western Sydney,N,1.9,3.43,3.97,17,28-Dec-14,19:00
+238,2014,Melbourne Victory,1,0,Newcastle Jets,N,1.42,4.56,6.82,17,27-Dec-14,19:30
+239,2014,Central Coast Mariners,3,3,Brisbane Roar,N,2.7,3.14,2.62,17,27-Dec-14,17:00
+240,2014,Sydney FC,0,3,Adelaide Utd,N,2.72,3.35,2.47,17,26-Dec-14,19:45
+241,2014,Melbourne City,1,1,Perth Glory,N,2.51,3.31,2.7,17,26-Dec-14,17:30
+242,2014,Sydney FC,0,2,Wellington Phoenix,N,1.94,3.53,3.7,17,21-Dec-14,17:00
+243,2014,Perth Glory,4,1,Central Coast Mariners,N,1.51,3.93,6.47,17,20-Dec-14,18:30
+244,2014,Melbourne City,1,0,Melbourne Victory,N,3.22,3.44,2.13,17,20-Dec-14,19:30
+245,2014,Newcastle Jets,2,1,Adelaide Utd,N,4.61,3.67,1.73,17,19-Dec-14,19:40
+246,2014,Melbourne Victory,3,3,Sydney FC,N,1.76,3.64,4.39,17,13-Dec-14,19:30
+247,2014,Wellington Phoenix,1,1,Central Coast Mariners,N,1.72,3.7,4.54,17,13-Dec-14,17:00
+248,2014,Perth Glory,2,0,Newcastle Jets,N,1.39,4.48,7.65,17,12-Dec-14,18:45
+249,2014,Adelaide Utd,0,1,Brisbane Roar,N,1.59,3.87,5.41,17,12-Dec-14,19:10
+250,2014,Melbourne City,1,0,Brisbane Roar,N,2.32,3.45,2.86,17,07-Dec-14,17:00
+251,2014,Adelaide Utd,2,0,Western Sydney,N,1.68,3.63,5.06,17,06-Dec-14,19:00
+252,2014,Newcastle Jets,1,3,Wellington Phoenix,N,2.56,3.32,2.64,17,06-Dec-14,17:00
+253,2014,Central Coast Mariners,0,3,Melbourne Victory,N,3.92,3.48,1.89,17,05-Dec-14,19:40
+254,2014,Sydney FC,1,2,Perth Glory,N,2.2,3.33,3.22,17,04-Dec-14,19:30
+255,2014,Western Sydney,0,1,Brisbane Roar,N,1.91,3.39,3.91,17,03-Dec-14,19:30
+256,2014,Newcastle Jets,1,1,Central Coast Mariners,N,2.24,3.24,3.16,17,30-Nov-14,17:00
+257,2014,Wellington Phoenix,5,1,Melbourne City,N,2.21,3.41,3.1,17,30-Nov-14,15:00
+258,2014,Western Sydney,1,1,Sydney FC,N,2.38,3.25,2.93,17,29-Nov-14,19:30
+259,2014,Brisbane Roar,1,1,Perth Glory,N,2.2,3.36,3.14,17,29-Nov-14,17:00
+260,2014,Melbourne Victory,3,2,Adelaide Utd,N,2.2,3.35,3.13,17,28-Nov-14,19:40
+261,2014,Central Coast Mariners,0,2,Adelaide Utd,N,3.22,3.33,2.17,16,23-Nov-14,17:00
+262,2014,Melbourne City,1,2,Sydney FC,N,2.18,3.35,3.19,16,22-Nov-14,19:30
+263,2014,Western Sydney,1,1,Newcastle Jets,N,1.73,3.6,4.67,16,22-Nov-14,17:00
+264,2014,Perth Glory,2,1,Wellington Phoenix,N,1.68,3.74,4.78,16,21-Nov-14,18:45
+265,2014,Melbourne Victory,1,0,Brisbane Roar,N,1.96,3.52,3.59,16,21-Nov-14,19:40
+266,2014,Western Sydney,0,0,Central Coast Mariners,N,1.74,3.53,4.72,16,19-Nov-14,19:30
+267,2014,Melbourne City,2,2,Central Coast Mariners,N,1.81,3.5,4.28,16,16-Nov-14,17:00
+268,2014,Perth Glory,2,1,Western Sydney,N,1.86,3.56,3.97,16,15-Nov-14,18:45
+269,2014,Sydney FC,0,0,Melbourne Victory,N,2.25,3.37,3.04,16,15-Nov-14,19:30
+270,2014,Adelaide Utd,2,1,Wellington Phoenix,N,1.52,4.06,6.05,16,15-Nov-14,16:30
+271,2014,Newcastle Jets,0,4,Brisbane Roar,N,2.37,3.3,2.89,16,14-Nov-14,19:40
+272,2014,Central Coast Mariners,0,1,Perth Glory,N,2.28,3.23,3.1,16,09-Nov-14,17:00
+273,2014,Brisbane Roar,1,3,Melbourne City,N,1.98,3.46,3.67,16,08-Nov-14,18:30
+274,2014,Newcastle Jets,2,2,Melbourne Victory,N,3.13,3.43,2.18,16,08-Nov-14,17:00
+275,2014,Adelaide Utd,0,0,Sydney FC,N,1.99,3.48,3.58,16,07-Nov-14,19:15
+276,2014,Wellington Phoenix,1,0,Western Sydney,N,2.25,3.33,3.09,16,07-Nov-14,19:30
+277,2014,Melbourne Victory,2,0,Wellington Phoenix,N,1.98,3.58,3.52,16,03-Nov-14,19:30
+278,2014,Sydney FC,2,0,Central Coast Mariners,N,1.83,3.53,4.15,16,02-Nov-14,17:00
+279,2014,Perth Glory,2,1,Newcastle Jets,N,1.86,3.43,4.16,16,01-Nov-14,16:30
+280,2014,Melbourne City,1,2,Adelaide Utd,N,2.38,3.38,2.83,16,31-Oct-14,19:40
+281,2014,Adelaide Utd,2,0,Perth Glory,N,1.89,3.46,3.99,16,26-Oct-14,16:30
+282,2014,Wellington Phoenix,4,1,Newcastle Jets,N,2.04,3.38,3.53,16,26-Oct-14,17:00
+283,2014,Melbourne Victory,5,2,Melbourne City,N,2.13,3.42,3.25,16,25-Oct-14,19:45
+284,2014,Brisbane Roar,0,2,Sydney FC,N,1.91,3.56,3.74,16,24-Oct-14,19:00
+285,2014,Perth Glory,3,2,Brisbane Roar,N,2.6,3.19,2.69,16,19-Oct-14,14:00
+286,2014,Melbourne City,1,1,Newcastle Jets,N,1.7,3.69,4.78,16,19-Oct-14,15:00
+287,2014,Sydney FC,3,2,Western Sydney,N,2.7,3.25,2.56,16,18-Oct-14,19:30
+288,2014,Central Coast Mariners,1,2,Wellington Phoenix,N,1.8,3.54,4.34,16,18-Oct-14,17:00
+289,2014,Adelaide Utd,1,1,Melbourne Victory,N,2.35,3.41,2.85,16,17-Oct-14,19:10
+290,2014,Brisbane Roar,1,2,Adelaide Utd,N,1.82,3.59,4.18,16,12-Oct-14,17:00
+291,2014,Wellington Phoenix,1,2,Perth Glory,N,2.31,3.31,2.98,16,12-Oct-14,15:00
+292,2014,Sydney FC,1,1,Melbourne City,N,2.46,3.32,2.76,16,11-Oct-14,19:30
+293,2014,Central Coast Mariners,1,0,Newcastle Jets,N,1.87,3.45,4.07,16,11-Oct-14,17:00
+294,2014,Melbourne Victory,4,1,Western Sydney,N,2.28,3.3,3.04,16,10-Oct-14,19:40
+295,2014,Brisbane Roar,1,1,Western Sydney,Y,2.24,3.23,3.18,15,03-May-14,16:00
+296,2014,Brisbane Roar,1,0,Melbourne Victory,Y,1.55,4.01,5.64,15,27-Apr-14,17:00
+297,2014,Western Sydney,2,0,Central Coast Mariners,Y,1.68,3.56,5.17,15,26-Apr-14,18:30
+298,2014,Central Coast Mariners,1,0,Adelaide Utd,Y,2.41,3.25,2.86,15,19-Apr-14,19:30
+299,2014,Melbourne Victory,2,1,Sydney FC,Y,1.86,3.62,3.88,15,18-Apr-14,16:30
+300,2014,Sydney FC,2,1,Perth Glory,N,1.69,3.71,4.72,15,13-Apr-14,17:00
+301,2014,Brisbane Roar,0,2,Central Coast Mariners,N,1.62,3.86,5.16,15,12-Apr-14,19:30
+302,2014,Melbourne City,2,3,Western Sydney,N,2.96,3.45,2.25,15,12-Apr-14,17:30
+303,2014,Wellington Phoenix,1,4,Melbourne Victory,N,2.63,3.45,2.49,15,12-Apr-14,17:30
+304,2014,Newcastle Jets,2,0,Adelaide Utd,N,2.54,3.42,2.6,15,11-Apr-14,19:30
+305,2014,Sydney FC,4,1,Wellington Phoenix,N,1.86,3.59,3.87,15,06-Apr-14,17:00
+306,2014,Perth Glory,3,1,Central Coast Mariners,N,2.82,3.24,2.45,15,05-Apr-14,18:30
+307,2014,Western Sydney,1,1,Brisbane Roar,N,2.09,3.33,3.39,15,05-Apr-14,19:30
+308,2014,Newcastle Jets,2,2,Melbourne Victory,N,2.1,3.51,3.25,15,05-Apr-14,17:30
+309,2014,Adelaide Utd,2,2,Melbourne City,N,1.74,3.68,4.47,15,04-Apr-14,19:00
+310,2014,Perth Glory,2,1,Newcastle Jets,N,3.07,3.32,2.25,14,30-Mar-14,16:00
+311,2014,Wellington Phoenix,0,1,Adelaide Utd,N,2.13,3.41,3.23,14,30-Mar-14,15:00
+312,2014,Melbourne Victory,1,1,Sydney FC,N,1.84,3.64,3.96,14,29-Mar-14,19:30
+313,2014,Central Coast Mariners,2,1,Western Sydney,N,2.94,3.25,2.37,14,29-Mar-14,17:30
+314,2014,Brisbane Roar,2,1,Melbourne City,N,1.7,3.73,4.71,14,28-Mar-14,19:00
+315,2014,Western Sydney,3,0,Perth Glory,N,1.37,4.53,8.43,14,23-Mar-14,17:00
+316,2014,Melbourne City,1,2,Central Coast Mariners,N,1.73,3.63,4.55,14,23-Mar-14,15:00
+317,2014,Brisbane Roar,1,0,Melbourne Victory,N,1.58,3.96,5.38,14,22-Mar-14,18:30
+318,2014,Newcastle Jets,5,0,Wellington Phoenix,N,1.89,3.56,3.84,14,22-Mar-14,17:30
+319,2014,Adelaide Utd,3,1,Sydney FC,N,1.71,3.76,4.57,14,21-Mar-14,19:00
+320,2014,Melbourne City,2,2,Wellington Phoenix,N,1.74,3.72,4.42,14,16-Mar-14,17:00
+321,2014,Perth Glory,1,2,Melbourne Victory,N,2.48,3.3,2.74,14,15-Mar-14,18:30
+322,2014,Central Coast Mariners,3,1,Newcastle Jets,N,2.35,3.22,2.99,14,15-Mar-14,19:30
+323,2014,Western Sydney,0,0,Adelaide Utd,N,1.83,3.52,4.17,14,15-Mar-14,17:30
+324,2014,Sydney FC,1,1,Brisbane Roar,N,3.59,3.51,1.97,14,14-Mar-14,19:30
+325,2014,Brisbane Roar,2,1,Adelaide Utd,N,1.78,3.59,4.37,14,09-Mar-14,16:00
+326,2014,Wellington Phoenix,1,1,Perth Glory,N,1.68,3.7,4.81,14,09-Mar-14,17:00
+327,2014,Sydney FC,3,1,Western Sydney,N,3.39,3.33,2.1,14,08-Mar-14,19:30
+328,2014,Newcastle Jets,1,0,Melbourne City,N,2.56,3.27,2.67,14,08-Mar-14,17:30
+329,2014,Melbourne Victory,3,1,Central Coast Mariners,N,2.14,3.37,3.25,14,07-Mar-14,19:30
+330,2014,Western Sydney,0,2,Newcastle Jets,N,1.61,3.74,5.38,14,02-Mar-14,17:00
+331,2014,Melbourne City,4,0,Melbourne Victory,N,2.23,3.45,2.98,14,01-Mar-14,19:30
+332,2014,Central Coast Mariners,2,1,Sydney FC,N,2.33,3.28,2.95,14,01-Mar-14,17:30
+333,2014,Brisbane Roar,3,1,Perth Glory,N,1.3,4.96,10,14,28-Feb-14,19:00
+334,2014,Adelaide Utd,5,1,Wellington Phoenix,N,2.02,3.4,3.53,14,27-Feb-14,19:00
+335,2014,Melbourne City,1,0,Brisbane Roar,N,3.19,3.43,2.15,13,23-Feb-14,17:00
+336,2014,Perth Glory,0,2,Western Sydney,N,2.92,3.11,2.45,13,22-Feb-14,18:30
+337,2014,Melbourne Victory,4,3,Adelaide Utd,N,2.07,3.44,3.38,13,22-Feb-14,19:30
+338,2014,Newcastle Jets,0,2,Sydney FC,N,1.93,3.47,3.77,13,22-Feb-14,17:30
+339,2014,Central Coast Mariners,1,4,Wellington Phoenix,N,2.21,3.28,3.2,13,21-Feb-14,19:30
+340,2014,Brisbane Roar,0,1,Newcastle Jets,N,1.41,4.45,7.36,13,16-Feb-14,16:00
+341,2014,Wellington Phoenix,0,5,Melbourne City,N,1.73,3.67,4.5,13,16-Feb-14,17:00
+342,2014,Sydney FC,2,1,Perth Glory,N,2.08,3.34,3.44,13,15-Feb-14,17:30
+343,2014,Adelaide Utd,2,0,Central Coast Mariners,N,2.2,3.34,3.15,13,14-Feb-14,19:00
+344,2014,Newcastle Jets,2,3,Wellington Phoenix,N,2.01,3.41,3.58,13,09-Feb-14,17:00
+345,2014,Melbourne City,2,1,Perth Glory,N,2.2,3.24,3.28,13,09-Feb-14,17:00
+346,2014,Sydney FC,0,3,Adelaide Utd,N,2.23,3.36,3.06,13,08-Feb-14,19:30
+347,2014,Central Coast Mariners,1,3,Melbourne Victory,N,1.99,3.38,3.67,13,08-Feb-14,17:30
+348,2014,Western Sydney,1,1,Brisbane Roar,N,2.41,3.22,2.89,13,07-Feb-14,19:30
+349,2014,Brisbane Roar,2,1,Central Coast Mariners,N,1.73,3.58,4.71,13,02-Feb-14,16:00
+350,2014,Newcastle Jets,2,2,Western Sydney,N,3.53,3.31,2.06,13,01-Feb-14,19:30
+351,2014,Wellington Phoenix,2,1,Adelaide Utd,N,1.98,3.48,3.59,13,01-Feb-14,19:30
+352,2014,Perth Glory,1,1,Melbourne Victory,N,2,3.44,3.56,13,31-Jan-14,18:45
+353,2014,Melbourne City,2,1,Sydney FC,N,2.13,3.44,3.24,13,31-Jan-14,19:30
+354,2014,Western Sydney,3,1,Perth Glory,N,1.55,3.78,6.08,13,26-Jan-14,19:00
+355,2014,Melbourne Victory,0,5,Sydney FC,N,1.79,3.65,4.2,13,26-Jan-14,17:00
+356,2014,Central Coast Mariners,3,0,Newcastle Jets,N,2.12,3.24,3.45,13,25-Jan-14,19:30
+357,2014,Adelaide Utd,2,2,Melbourne City,N,1.83,3.51,4.12,13,25-Jan-14,17:00
+358,2014,Brisbane Roar,2,1,Wellington Phoenix,N,1.57,3.97,5.38,13,24-Jan-14,19:00
+359,2014,Adelaide Utd,1,0,Western Sydney,N,2.71,3.29,2.51,14,19-Jan-14,16:30
+360,2014,Sydney FC,0,1,Central Coast Mariners,N,2.82,3.25,2.43,14,18-Jan-14,19:30
+361,2014,Wellington Phoenix,5,0,Melbourne Victory,N,2.38,3.38,2.86,14,18-Jan-14,19:30
+362,2014,Perth Glory,0,0,Brisbane Roar,N,3.75,3.37,1.96,14,17-Jan-14,18:45
+363,2014,Melbourne City,3,1,Newcastle Jets,N,2.46,3.25,2.79,14,17-Jan-14,19:30
+364,2014,Melbourne Victory,3,1,Western Sydney,N,2.72,3.21,2.54,14,14-Jan-14,19:30
+365,2014,Wellington Phoenix,1,1,Central Coast Mariners,N,2.12,3.31,3.33,14,12-Jan-14,19:00
+366,2014,Western Sydney,1,0,Sydney FC,N,1.45,4.32,6.59,14,11-Jan-14,19:30
+367,2014,Brisbane Roar,1,2,Adelaide Utd,N,1.35,4.81,8,14,11-Jan-14,16:30
+368,2014,Perth Glory,3,0,Melbourne City,N,2.06,3.32,3.56,13,10-Jan-14,18:45
+369,2014,Newcastle Jets,1,1,Melbourne Victory,N,2.48,3.31,2.72,14,10-Jan-14,19:30
+370,2014,Central Coast Mariners,0,0,Melbourne City,N,1.7,3.61,4.89,14,05-Jan-14,17:00
+371,2014,Melbourne Victory,0,3,Brisbane Roar,N,2.48,3.31,2.72,14,04-Jan-14,19:30
+372,2014,Newcastle Jets,0,1,Perth Glory,N,1.64,3.57,5.45,14,04-Jan-14,17:30
+373,2014,Adelaide Utd,2,2,Sydney FC,N,1.79,3.6,4.2,14,03-Jan-14,19:00
+374,2014,Western Sydney,1,3,Wellington Phoenix,N,1.39,4.43,7.63,14,01-Jan-14,19:00
+375,2013,Central Coast Mariners,2,1,Perth Glory,N,1.56,3.8,5.76,17,31-Dec-13,18:00
+376,2013,Adelaide Utd,1,0,Newcastle Jets,N,2.16,3.34,3.17,18,29-Dec-13,16:30
+377,2013,Melbourne Victory,1,1,Western Sydney,N,2.34,3.2,3,18,28-Dec-13,19:30
+378,2013,Melbourne City,0,1,Wellington Phoenix,N,2.17,3.28,3.24,18,27-Dec-13,19:30
+379,2013,Sydney FC,2,5,Brisbane Roar,N,3.27,3.36,2.11,18,26-Dec-13,19:30
+380,2013,Western Sydney,2,0,Central Coast Mariners,N,1.7,3.52,4.83,17,23-Dec-13,16:00
+381,2013,Perth Glory,0,0,Adelaide Utd,N,2.09,3.31,3.41,18,22-Dec-13,16:00
+382,2013,Wellington Phoenix,1,0,Sydney FC,N,1.95,3.52,3.62,18,22-Dec-13,19:00
+383,2013,Melbourne City,1,3,Melbourne Victory,N,3.83,3.5,1.89,18,21-Dec-13,19:30
+384,2013,Brisbane Roar,0,2,Newcastle Jets,N,1.5,4.02,6.22,18,20-Dec-13,19:00
+385,2013,Central Coast Mariners,1,0,Wellington Phoenix,N,1.78,3.5,4.35,17,19-Dec-13,19:30
+386,2013,Sydney FC,2,1,Melbourne City,N,1.74,3.62,4.45,19,15-Dec-13,17:00
+387,2013,Newcastle Jets,0,1,Western Sydney,N,3.42,3.29,2.09,19,14-Dec-13,19:30
+388,2013,Adelaide Utd,4,0,Central Coast Mariners,N,3.05,3.25,2.27,18,14-Dec-13,17:00
+389,2013,Wellington Phoenix,1,2,Brisbane Roar,N,3.37,3.37,2.07,19,14-Dec-13,17:30
+390,2013,Melbourne Victory,2,0,Perth Glory,N,1.53,4.09,5.62,19,13-Dec-13,19:30
+391,2013,Melbourne Victory,1,2,Newcastle Jets,N,1.64,3.79,5.01,19,08-Dec-13,17:00
+392,2013,Central Coast Mariners,1,0,Sydney FC,N,1.68,3.67,4.81,18,07-Dec-13,19:30
+393,2013,Western Sydney,1,1,Melbourne City,N,1.35,4.62,8.53,19,07-Dec-13,17:30
+394,2013,Perth Glory,4,2,Wellington Phoenix,N,2.1,3.25,3.42,19,06-Dec-13,18:45
+395,2013,Adelaide Utd,1,2,Brisbane Roar,N,4.4,3.65,1.74,19,06-Dec-13,19:00
+396,2013,Melbourne City,3,3,Adelaide Utd,N,2.17,3.28,3.2,19,01-Dec-13,17:00
+397,2013,Wellington Phoenix,0,0,Western Sydney,N,3.54,3.34,2.03,19,01-Dec-13,17:00
+398,2013,Sydney FC,2,0,Newcastle Jets,N,2.42,3.26,2.83,19,30-Nov-13,19:30
+399,2013,Brisbane Roar,1,0,Perth Glory,N,1.39,4.51,7.62,19,30-Nov-13,16:30
+400,2013,Central Coast Mariners,0,0,Melbourne Victory,N,1.95,3.43,3.67,18,29-Nov-13,19:30
+401,2013,Newcastle Jets,3,1,Melbourne City,N,1.82,3.52,4.13,19,24-Nov-13,17:00
+402,2013,Perth Glory,1,2,Central Coast Mariners,N,2.78,3.15,2.52,18,23-Nov-13,18:45
+403,2013,Melbourne Victory,3,0,Adelaide Utd,N,1.61,3.88,5.12,19,23-Nov-13,19:45
+404,2013,Sydney FC,2,1,Wellington Phoenix,N,1.81,3.55,4.15,19,23-Nov-13,17:30
+405,2013,Brisbane Roar,3,1,Western Sydney,N,2.29,3.2,3.06,19,22-Nov-13,19:00
+406,2013,Newcastle Jets,2,1,Brisbane Roar,N,3.01,3.23,2.32,19,17-Nov-13,17:00
+407,2013,Western Sydney,1,0,Melbourne Victory,N,1.73,3.63,4.52,19,16-Nov-13,19:45
+408,2013,Perth Glory,1,1,Adelaide Utd,N,1.73,3.61,4.54,19,16-Nov-13,14:30
+409,2013,Melbourne City,0,2,Sydney FC,N,2.22,3.31,3.1,19,15-Nov-13,19:30
+410,2013,Central Coast Mariners,0,1,Brisbane Roar,N,2.08,3.35,3.39,18,10-Nov-13,17:00
+411,2013,Sydney FC,3,2,Melbourne Victory,N,2.78,3.47,2.37,19,09-Nov-13,19:45
+412,2013,Adelaide Utd,1,2,Newcastle Jets,N,2.19,3.41,3.13,19,09-Nov-13,17:00
+413,2013,Wellington Phoenix,1,1,Perth Glory,N,2.02,3.31,3.6,19,09-Nov-13,17:00
+414,2013,Melbourne City,0,1,Western Sydney,N,4.47,3.44,1.79,19,08-Nov-13,19:30
+415,2013,Melbourne Victory,3,2,Wellington Phoenix,N,1.5,4.04,6.25,19,04-Nov-13,19:30
+416,2013,Brisbane Roar,3,0,Melbourne City,N,1.49,4.02,6.46,19,03-Nov-13,16:00
+417,2013,Newcastle Jets,2,2,Central Coast Mariners,N,3.52,3.31,2.05,18,02-Nov-13,19:30
+418,2013,Perth Glory,1,0,Sydney FC,N,1.78,3.6,4.25,19,02-Nov-13,14:30
+419,2013,Western Sydney,2,1,Adelaide Utd,N,1.48,4.05,6.57,19,01-Nov-13,19:30
+420,2013,Perth Glory,1,0,Melbourne City,N,2.01,3.33,3.62,18,27-Oct-13,14:00
+421,2013,Wellington Phoenix,0,0,Newcastle Jets,N,1.74,3.59,4.54,18,27-Oct-13,17:00
+422,2013,Sydney FC,0,2,Western Sydney,N,4.97,3.69,1.66,18,26-Oct-13,19:45
+423,2013,Central Coast Mariners,1,0,Adelaide Utd,N,1.52,3.99,6.02,17,26-Oct-13,17:30
+424,2013,Melbourne Victory,1,0,Brisbane Roar,N,2.65,3.32,2.52,18,25-Oct-13,19:30
+425,2013,Western Sydney,1,1,Wellington Phoenix,N,1.37,4.5,8.02,18,20-Oct-13,17:00
+426,2013,Newcastle Jets,0,0,Perth Glory,N,2.1,3.27,3.38,18,20-Oct-13,15:00
+427,2013,Brisbane Roar,4,0,Sydney FC,N,1.59,3.95,5.21,18,19-Oct-13,19:30
+428,2013,Melbourne City,2,2,Central Coast Mariners,N,3.33,3.24,2.13,17,19-Oct-13,17:30
+429,2013,Adelaide Utd,2,2,Melbourne Victory,N,2.21,3.35,3.09,18,18-Oct-13,19:00
+430,2013,Adelaide Utd,3,1,Perth Glory,N,2.07,3.36,3.39,19,13-Oct-13,16:30
+431,2013,Wellington Phoenix,1,2,Brisbane Roar,N,3.62,3.43,1.97,19,13-Oct-13,17:00
+432,2013,Melbourne Victory,0,0,Melbourne City,N,1.89,3.43,3.87,19,12-Oct-13,19:45
+433,2013,Central Coast Mariners,1,1,Western Sydney,N,2.48,3.16,2.81,19,12-Oct-13,17:30
+434,2013,Sydney FC,2,0,Newcastle Jets,N,2.2,3.32,3.13,19,11-Oct-13,19:30
+435,2013,Western Sydney,0,2,Central Coast Mariners,Y,2.75,3.14,2.55,16,21-Apr-13,16:00
+436,2013,Central Coast Mariners,1,0,Melbourne Victory,Y,1.51,4.2,5.73,16,14-Apr-13,17:00
+437,2013,Western Sydney,2,0,Brisbane Roar,Y,1.94,3.39,3.79,16,12-Apr-13,19:30
+438,2013,Adelaide Utd,1,2,Brisbane Roar,Y,3.23,3.32,2.17,15,07-Apr-13,16:30
+439,2013,Melbourne Victory,1,1,Perth Glory,Y,1.8,3.6,4.19,15,05-Apr-13,19:30
+440,2013,Wellington Phoenix,2,3,Melbourne Victory,N,2.34,3.41,2.82,15,31-Mar-13,16:30
+441,2013,Perth Glory,1,1,Adelaide Utd,N,1.95,3.39,3.75,15,30-Mar-13,18:45
+442,2013,Central Coast Mariners,2,1,Melbourne City,N,1.61,4.03,4.8,15,30-Mar-13,17:30
+443,2013,Newcastle Jets,0,3,Western Sydney,N,3.05,3.3,2.26,15,29-Mar-13,17:30
+444,2013,Brisbane Roar,3,1,Sydney FC,N,1.64,3.92,4.76,15,28-Mar-13,19:00
+445,2013,Adelaide Utd,0,2,Central Coast Mariners,N,3.66,3.46,1.92,15,24-Mar-13,18:30
+446,2013,Brisbane Roar,2,0,Melbourne City,N,1.4,4.37,6.95,15,24-Mar-13,16:00
+447,2013,Western Sydney,1,1,Sydney FC,N,1.72,3.64,4.42,15,23-Mar-13,19:45
+448,2013,Melbourne Victory,2,3,Perth Glory,N,2.05,3.35,3.38,15,23-Mar-13,17:30
+449,2013,Perth Glory,1,2,Wellington Phoenix,N,1.52,4.04,5.85,15,17-Mar-13,16:00
+450,2013,Central Coast Mariners,1,0,Brisbane Roar,N,1.99,3.38,3.61,15,17-Mar-13,17:00
+451,2013,Sydney FC,1,1,Melbourne Victory,N,2.26,3.47,2.9,15,16-Mar-13,19:45
+452,2013,Melbourne City,1,3,Western Sydney,N,3.77,3.45,1.92,15,16-Mar-13,17:30
+453,2013,Adelaide Utd,1,1,Newcastle Jets,N,1.95,3.46,3.67,15,15-Mar-13,19:00
+454,2013,Melbourne City,0,2,Adelaide Utd,N,1.81,3.62,4.1,15,11-Mar-13,19:30
+455,2013,Western Sydney,2,1,Wellington Phoenix,N,1.35,4.68,8.29,15,10-Mar-13,17:00
+456,2013,Brisbane Roar,1,1,Melbourne Victory,N,1.72,3.8,4.31,15,09-Mar-13,18:45
+457,2013,Sydney FC,2,0,Central Coast Mariners,N,4.21,3.79,1.75,15,09-Mar-13,17:30
+458,2013,Newcastle Jets,1,2,Perth Glory,N,2.47,3.24,2.77,15,08-Mar-13,19:30
+459,2013,Melbourne Victory,5,0,Newcastle Jets,N,1.67,3.86,4.7,15,03-Mar-13,17:00
+460,2013,Wellington Phoenix,1,0,Melbourne City,N,2.29,3.35,2.96,15,03-Mar-13,16:30
+461,2013,Perth Glory,2,1,Sydney FC,N,1.8,3.68,4.07,15,02-Mar-13,18:45
+462,2013,Central Coast Mariners,0,1,Western Sydney,N,2.08,3.33,3.43,15,02-Mar-13,19:45
+463,2013,Adelaide Utd,0,1,Brisbane Roar,N,2.76,3.33,2.44,15,02-Mar-13,17:00
+464,2013,Wellington Phoenix,1,2,Newcastle Jets,N,2.05,3.36,3.47,15,27-Feb-13,19:00
+465,2013,Melbourne City,3,1,Sydney FC,N,2.3,3.39,2.89,15,24-Feb-13,17:00
+466,2013,Wellington Phoenix,2,2,Adelaide Utd,N,1.89,3.53,3.82,15,24-Feb-13,16:30
+467,2013,Central Coast Mariners,6,2,Melbourne Victory,N,1.55,3.95,5.64,15,23-Feb-13,19:45
+468,2013,Western Sydney,1,0,Perth Glory,N,1.48,3.99,6.62,15,23-Feb-13,17:30
+469,2013,Newcastle Jets,0,0,Brisbane Roar,N,2.41,3.21,2.89,15,22-Feb-13,19:30
+470,2013,Brisbane Roar,2,0,Wellington Phoenix,N,1.49,4.15,6.05,15,17-Feb-13,16:00
+471,2013,Perth Glory,2,1,Central Coast Mariners,N,3.23,3.35,2.13,15,16-Feb-13,18:45
+472,2013,Melbourne Victory,1,2,Western Sydney,N,2.72,3.27,2.48,15,16-Feb-13,19:45
+473,2013,Sydney FC,2,1,Adelaide Utd,N,2.21,3.46,3,15,16-Feb-13,17:30
+474,2013,Newcastle Jets,2,0,Melbourne City,N,1.95,3.45,3.67,15,15-Feb-13,19:30
+475,2013,Sydney FC,2,1,Brisbane Roar,N,2.94,3.41,2.25,15,10-Feb-13,17:00
+476,2013,Western Sydney,2,1,Newcastle Jets,N,1.58,3.89,5.32,15,09-Feb-13,19:45
+477,2013,Melbourne City,2,0,Perth Glory,N,2.22,3.31,3.06,15,09-Feb-13,17:30
+478,2013,Adelaide Utd,1,0,Melbourne Victory,N,2.83,3.42,2.31,15,08-Feb-13,19:00
+479,2013,Central Coast Mariners,5,0,Wellington Phoenix,N,1.38,4.47,7.89,15,07-Feb-13,19:00
+480,2013,Adelaide Utd,2,4,Western Sydney,N,2.89,3.24,2.39,14,03-Feb-13,16:30
+481,2013,Melbourne Victory,2,1,Melbourne City,N,1.65,3.84,4.75,15,02-Feb-13,19:45
+482,2013,Newcastle Jets,2,2,Sydney FC,N,1.83,3.63,3.88,15,02-Feb-13,17:30
+483,2013,Wellington Phoenix,1,0,Perth Glory,N,2.07,3.3,3.42,15,02-Feb-13,17:00
+484,2013,Brisbane Roar,2,2,Central Coast Mariners,N,2.5,3.22,2.74,15,01-Feb-13,19:00
+485,2013,Wellington Phoenix,1,1,Newcastle Jets,N,2.03,3.38,3.45,16,27-Jan-13,16:30
+486,2013,Perth Glory,0,1,Brisbane Roar,N,2.43,3.19,2.86,16,26-Jan-13,18:45
+487,2013,Western Sydney,1,0,Melbourne City,N,1.55,3.84,5.93,16,26-Jan-13,19:45
+488,2013,Melbourne Victory,3,1,Sydney FC,N,1.77,3.69,4.17,16,26-Jan-13,17:30
+489,2013,Central Coast Mariners,3,1,Adelaide Utd,N,1.72,3.49,4.8,16,25-Jan-13,19:30
+490,2013,Brisbane Roar,1,2,Western Sydney,N,2.22,3.29,3.13,16,20-Jan-13,16:00
+491,2013,Perth Glory,0,1,Melbourne Victory,N,2.09,3.45,3.23,16,19-Jan-13,18:45
+492,2013,Central Coast Mariners,0,0,Newcastle Jets,N,1.63,3.73,5.15,16,19-Jan-13,19:45
+493,2013,Sydney FC,7,1,Wellington Phoenix,N,1.97,3.54,3.48,16,19-Jan-13,17:30
+494,2013,Melbourne City,2,0,Adelaide Utd,N,2.43,3.29,2.79,16,18-Jan-13,19:30
+495,2013,Sydney FC,2,1,Melbourne City,N,2.21,3.47,2.99,16,13-Jan-13,17:00
+496,2013,Wellington Phoenix,0,2,Western Sydney,N,2.52,3.24,2.71,16,13-Jan-13,16:30
+497,2013,Newcastle Jets,1,0,Brisbane Roar,N,3.56,3.53,1.96,16,12-Jan-13,19:45
+498,2013,Melbourne Victory,1,1,Central Coast Mariners,N,3.25,3.43,2.1,16,12-Jan-13,17:30
+499,2013,Adelaide Utd,3,2,Perth Glory,N,2.04,3.39,3.47,16,11-Jan-13,19:00
+500,2013,Western Sydney,0,2,Central Coast Mariners,N,2.89,3.14,2.43,14,06-Jan-13,18:00
+501,2013,Melbourne City,3,2,Brisbane Roar,N,3.2,3.4,2.13,14,06-Jan-13,16:00
+502,2013,Perth Glory,2,2,Sydney FC,N,1.55,3.99,5.57,14,05-Jan-13,18:45
+503,2013,Melbourne Victory,2,0,Wellington Phoenix,N,1.71,3.76,4.48,14,05-Jan-13,19:45
+504,2013,Newcastle Jets,0,0,Adelaide Utd,N,2.55,3.35,2.62,14,05-Jan-13,17:30
+505,2013,Brisbane Roar,2,1,Wellington Phoenix,N,1.54,3.89,5.83,14,01-Jan-13,19:30
+506,2013,Western Sydney,2,1,Melbourne Victory,N,2.19,3.36,3.1,14,01-Jan-13,18:15
+507,2013,Melbourne City,2,1,Newcastle Jets,N,2.21,3.39,3.02,14,01-Jan-13,16:00
+508,2012,Adelaide Utd,3,0,Sydney FC,N,1.67,3.72,4.75,14,31-Dec-12,19:30
+509,2012,Central Coast Mariners,1,0,Perth Glory,N,1.82,3.44,4.25,14,31-Dec-12,18:00
+510,2012,Melbourne Victory,3,2,Newcastle Jets,N,1.89,3.62,3.79,14,28-Dec-12,19:30
+511,2012,Perth Glory,1,1,Western Sydney,N,2.22,3.21,3.22,14,27-Dec-12,18:45
+512,2012,Sydney FC,1,0,Central Coast Mariners,N,4.63,3.67,1.71,14,27-Dec-12,19:30
+513,2012,Wellington Phoenix,3,2,Melbourne City,N,1.73,3.58,4.59,14,27-Dec-12,19:30
+514,2012,Adelaide Utd,0,1,Brisbane Roar,N,2.58,3.31,2.6,14,26-Dec-12,19:00
+515,2012,Melbourne City,1,2,Melbourne Victory,N,2.86,3.36,2.33,14,22-Dec-12,19:45
+516,2012,Newcastle Jets,2,1,Sydney FC,N,2.06,3.45,3.34,14,22-Dec-12,17:30
+517,2012,Wellington Phoenix,1,1,Central Coast Mariners,N,3.73,3.4,1.95,14,22-Dec-12,17:00
+518,2012,Brisbane Roar,0,1,Perth Glory,N,1.8,3.55,4.19,14,21-Dec-12,20:00
+519,2012,Western Sydney,6,1,Adelaide Utd,N,2.62,3.18,2.61,14,21-Dec-12,19:00
+520,2012,Adelaide Utd,3,1,Wellington Phoenix,N,1.73,3.63,4.49,15,16-Dec-12,16:30
+521,2012,Sydney FC,0,2,Western Sydney,N,2.48,3.21,2.78,15,15-Dec-12,19:45
+522,2012,Melbourne Victory,1,1,Brisbane Roar,N,2.54,3.42,2.54,15,15-Dec-12,17:30
+523,2012,Perth Glory,3,0,Newcastle Jets,N,1.68,3.71,4.76,15,14-Dec-12,18:45
+524,2012,Central Coast Mariners,2,0,Melbourne City,N,1.45,4.19,6.75,15,14-Dec-12,19:30
+525,2012,Western Sydney,1,0,Brisbane Roar,N,3.8,3.36,1.95,15,09-Dec-12,17:00
+526,2012,Wellington Phoenix,1,2,Sydney FC,N,1.55,3.97,5.58,15,09-Dec-12,16:30
+527,2012,Newcastle Jets,0,2,Central Coast Mariners,N,3.41,3.41,2.05,15,08-Dec-12,19:45
+528,2012,Melbourne City,1,0,Perth Glory,N,2.53,3.27,2.67,15,08-Dec-12,17:30
+529,2012,Adelaide Utd,4,2,Melbourne Victory,N,2.21,3.37,3.08,15,07-Dec-12,19:00
+530,2012,Sydney FC,0,0,Melbourne City,N,2.43,3.32,2.77,15,02-Dec-12,17:00
+531,2012,Wellington Phoenix,1,0,Western Sydney,N,1.75,3.5,4.56,15,02-Dec-12,16:30
+532,2012,Brisbane Roar,1,0,Newcastle Jets,N,1.63,4.01,4.66,15,01-Dec-12,18:45
+533,2012,Central Coast Mariners,2,1,Adelaide Utd,N,1.69,3.61,4.8,15,01-Dec-12,17:30
+534,2012,Melbourne Victory,1,0,Perth Glory,N,2.09,3.44,3.24,15,30-Nov-12,19:30
+535,2012,Central Coast Mariners,2,1,Brisbane Roar,N,2.42,3.33,2.78,16,25-Nov-12,17:00
+536,2012,Perth Glory,1,1,Wellington Phoenix,N,1.71,3.57,4.64,16,24-Nov-12,18:45
+537,2012,Western Sydney,0,2,Melbourne Victory,N,2.68,3.31,2.49,16,24-Nov-12,19:45
+538,2012,Melbourne City,3,3,Newcastle Jets,N,2.09,3.41,3.29,16,24-Nov-12,17:30
+539,2012,Sydney FC,1,2,Adelaide Utd,N,2.7,3.39,2.43,16,23-Nov-12,19:30
+540,2012,Perth Glory,0,1,Western Sydney,N,1.58,3.76,5.58,16,18-Nov-12,14:00
+541,2012,Newcastle Jets,0,3,Wellington Phoenix,N,1.82,3.52,4.11,16,18-Nov-12,15:00
+542,2012,Melbourne Victory,2,2,Central Coast Mariners,N,2.99,3.31,2.28,16,17-Nov-12,19:45
+543,2012,Adelaide Utd,1,0,Melbourne City,N,2.06,3.31,3.48,16,17-Nov-12,17:00
+544,2012,Brisbane Roar,4,2,Sydney FC,N,1.53,4.2,5.35,16,16-Nov-12,19:00
+545,2012,Adelaide Utd,1,1,Perth Glory,N,2.27,3.27,3.02,16,11-Nov-12,16:30
+546,2012,Wellington Phoenix,0,1,Central Coast Mariners,N,2.72,3.26,2.49,16,11-Nov-12,16:30
+547,2012,Sydney FC,2,3,Melbourne Victory,N,2.25,3.41,3.05,16,10-Nov-12,19:45
+548,2012,Western Sydney,1,2,Newcastle Jets,N,2.78,3.26,2.44,16,10-Nov-12,17:30
+549,2012,Melbourne City,4,1,Brisbane Roar,N,3.37,3.26,2.11,1,09-Nov-12,19:30
+550,2012,Melbourne Victory,3,2,Wellington Phoenix,N,2.02,3.42,3.43,16,05-Nov-12,19:30
+551,2012,Brisbane Roar,0,1,Adelaide Utd,N,1.53,4.14,5.54,16,04-Nov-12,16:00
+552,2012,Perth Glory,3,2,Newcastle Jets,N,1.84,3.5,4.06,16,03-Nov-12,18:45
+553,2012,Central Coast Mariners,7,2,Sydney FC,N,1.68,3.64,4.83,16,03-Nov-12,19:30
+554,2012,Western Sydney,2,1,Melbourne City,N,2.38,3.19,2.9,16,02-Nov-12,19:30
+555,2012,Sydney FC,2,1,Perth Glory,N,2.42,3.24,2.81,16,28-Oct-12,17:00
+556,2012,Melbourne City,0,1,Central Coast Mariners,N,2.66,3.18,2.59,16,28-Oct-12,15:00
+557,2012,Brisbane Roar,0,1,Western Sydney,N,1.31,4.93,9.04,1,27-Oct-12,18:45
+558,2012,Adelaide Utd,3,1,Wellington Phoenix,N,2.2,3.25,3.16,16,27-Oct-12,17:00
+559,2012,Newcastle Jets,2,1,Melbourne Victory,N,1.92,3.5,3.69,16,26-Oct-12,19:30
+560,2012,Perth Glory,2,0,Melbourne City,N,1.91,3.39,3.9,16,21-Oct-12,14:00
+561,2012,Wellington Phoenix,1,1,Brisbane Roar,N,3.12,3.32,2.2,16,21-Oct-12,16:30
+562,2012,Western Sydney,0,1,Sydney FC,N,3.05,3.15,2.15,1,20-Oct-12,19:45
+563,2012,Newcastle Jets,2,1,Central Coast Mariners,N,2.95,3.24,2.32,16,20-Oct-12,17:30
+564,2012,Melbourne Victory,2,1,Adelaide Utd,N,2.56,3.3,2.61,16,19-Oct-12,19:30
+565,2012,Central Coast Mariners,1,0,Perth Glory,N,2.08,3.23,3.48,15,14-Oct-12,17:00
+566,2012,Melbourne City,1,1,Wellington Phoenix,N,1.55,3.8,5.89,15,14-Oct-12,15:00
+567,2012,Brisbane Roar,5,0,Melbourne Victory,N,1.58,3.85,5.34,15,13-Oct-12,18:45
+568,2012,Sydney FC,2,3,Newcastle Jets,N,2.08,3.28,3.42,15,13-Oct-12,17:30
+569,2012,Adelaide Utd,1,0,Western Sydney,N,1.61,3.45,4.9,1,12-Oct-12,19:00
+570,2012,Perth Glory,1,0,Brisbane Roar,N,2.84,3.19,2.42,15,07-Oct-12,14:00
+571,2012,Newcastle Jets,0,2,Adelaide Utd,N,2.1,3.35,3.29,15,07-Oct-12,15:00
+572,2012,Western Sydney,0,0,Central Coast Mariners,N,3.6,3.25,1.91,2,06-Oct-12,19:45
+573,2012,Wellington Phoenix,2,0,Sydney FC,N,2.33,3.31,2.9,15,06-Oct-12,19:30
+574,2012,Melbourne Victory,1,2,Melbourne City,N,2.12,3.23,3.38,15,05-Oct-12,19:30
+575,2012,Brisbane Roar,2,1,Perth Glory,Y,1.65,3.6,4.95,17,22-Apr-12,16:00
+576,2012,Central Coast Mariners,1,1,Perth Glory,Y,2,3.32,3.51,17,14-Apr-12,16:00
+577,2012,Central Coast Mariners,2,3,Brisbane Roar,Y,2.75,3.25,2.41,17,08-Apr-12,17:00
+578,2012,Perth Glory,2,2,Wellington Phoenix,Y,1.79,3.39,4.3,17,07-Apr-12,17:30
+579,2012,Perth Glory,3,0,Melbourne City,Y,1.98,3.3,3.58,9,01-Apr-12,17:00
+580,2012,Brisbane Roar,2,0,Central Coast Mariners,Y,1.92,3.36,3.77,10,31-Mar-12,16:30
+581,2012,Wellington Phoenix,3,2,Sydney FC,Y,2.15,3.23,3.22,10,30-Mar-12,20:00
+582,2012,Gold Coast,1,2,Brisbane Roar,N,3.53,3.41,1.97,14,25-Mar-12,17:30
+583,2012,Sydney FC,3,2,Newcastle Jets,N,2.06,3.31,3.34,16,25-Mar-12,16:00
+584,2012,Wellington Phoenix,1,2,Central Coast Mariners,N,2.88,3.25,2.31,14,25-Mar-12,16:00
+585,2012,Perth Glory,4,2,Melbourne Victory,N,1.95,3.39,3.58,16,24-Mar-12,18:30
+586,2012,Adelaide Utd,1,1,Melbourne City,N,2.7,3.19,2.48,16,23-Mar-12,19:30
+587,2012,Gold Coast,3,0,Perth Glory,N,2.95,3.18,2.33,16,18-Mar-12,17:30
+588,2012,Melbourne City,2,2,Sydney FC,N,2.44,3.19,2.76,16,17-Mar-12,19:45
+589,2012,Central Coast Mariners,1,0,Adelaide Utd,N,1.49,3.91,6.21,16,17-Mar-12,17:30
+590,2012,Newcastle Jets,1,2,Brisbane Roar,N,3.12,3.28,2.19,16,17-Mar-12,17:30
+591,2012,Melbourne Victory,3,0,Wellington Phoenix,N,2.4,3.24,2.77,16,16-Mar-12,20:00
+592,2012,Perth Glory,1,0,Central Coast Mariners,N,2.31,3.25,2.88,16,11-Mar-12,16:30
+593,2012,Brisbane Roar,1,1,Adelaide Utd,N,1.36,4.43,8.08,16,11-Mar-12,16:00
+594,2012,Sydney FC,1,0,Melbourne Victory,N,2.06,3.33,3.3,16,10-Mar-12,19:45
+595,2012,Melbourne City,1,1,Wellington Phoenix,N,2.17,3.22,3.17,16,10-Mar-12,17:30
+596,2012,Newcastle Jets,1,1,Gold Coast,N,1.47,4,6.5,16,09-Mar-12,20:00
+597,2012,Wellington Phoenix,2,0,Gold Coast,N,1.49,3.99,6.42,12,04-Mar-12,16:30
+598,2012,Central Coast Mariners,1,1,Sydney FC,N,1.82,3.45,4.08,15,03-Mar-12,19:45
+599,2012,Melbourne Victory,1,3,Newcastle Jets,N,1.95,3.36,3.63,15,03-Mar-12,17:30
+600,2012,Brisbane Roar,1,1,Melbourne City,N,1.48,4.06,6.1,15,02-Mar-12,19:00
+601,2012,Adelaide Utd,0,2,Perth Glory,N,2.64,3.28,2.5,15,01-Mar-12,19:30
+602,2012,Melbourne City,1,0,Central Coast Mariners,N,3.21,3.24,2.17,12,26-Feb-12,17:00
+603,2012,Perth Glory,0,3,Brisbane Roar,N,2.8,3.26,2.4,12,25-Feb-12,19:00
+604,2012,Gold Coast,1,1,Melbourne Victory,N,3.2,3.27,2.16,12,25-Feb-12,18:45
+605,2012,Sydney FC,0,1,Wellington Phoenix,N,2.03,3.31,3.45,12,25-Feb-12,17:30
+606,2012,Newcastle Jets,1,0,Adelaide Utd,N,1.99,3.38,3.52,12,24-Feb-12,20:00
+607,2012,Gold Coast,3,3,Central Coast Mariners,N,5.13,3.67,1.63,12,22-Feb-12,19:00
+608,2012,Adelaide Utd,1,2,Sydney FC,N,2.51,3.24,2.66,11,19-Feb-12,16:30
+609,2012,Perth Glory,2,0,Newcastle Jets,N,1.9,3.37,3.81,12,18-Feb-12,19:00
+610,2012,Brisbane Roar,3,2,Melbourne Victory,N,1.51,3.93,5.97,12,18-Feb-12,18:45
+611,2012,Central Coast Mariners,2,0,Wellington Phoenix,N,1.72,3.51,4.58,12,18-Feb-12,17:30
+612,2012,Melbourne City,1,0,Gold Coast,N,1.54,3.79,5.84,12,17-Feb-12,20:00
+613,2012,Gold Coast,1,2,Adelaide Utd,N,2.29,3.26,2.91,12,12-Feb-12,16:30
+614,2012,Wellington Phoenix,0,2,Brisbane Roar,N,2.72,3.22,2.44,12,12-Feb-12,17:00
+615,2012,Sydney FC,2,1,Perth Glory,N,2.36,3.26,2.82,12,11-Feb-12,19:45
+616,2012,Newcastle Jets,3,0,Melbourne City,N,2.11,3.26,3.25,12,11-Feb-12,17:30
+617,2012,Melbourne Victory,2,1,Central Coast Mariners,N,2.62,3.22,2.53,12,10-Feb-12,20:00
+618,2012,Perth Glory,4,0,Gold Coast,N,1.71,3.53,4.55,12,06-Feb-12,19:00
+619,2012,Sydney FC,2,5,Newcastle Jets,N,1.93,3.35,3.73,12,05-Feb-12,17:00
+620,2012,Melbourne City,0,0,Melbourne Victory,N,2.62,3.25,2.53,12,04-Feb-12,19:45
+621,2012,Central Coast Mariners,0,2,Brisbane Roar,N,2.35,3.23,2.88,12,04-Feb-12,17:30
+622,2012,Adelaide Utd,1,2,Wellington Phoenix,N,2.36,3.25,2.83,12,03-Feb-12,19:30
+623,2012,Melbourne Victory,1,1,Gold Coast,N,2.07,3.3,3.41,12,01-Feb-12,19:30
+624,2012,Adelaide Utd,0,3,Perth Glory,N,2.21,3.28,3.06,12,29-Jan-12,16:30
+625,2012,Wellington Phoenix,3,1,Melbourne City,N,2.04,3.28,3.44,12,29-Jan-12,16:30
+626,2012,Brisbane Roar,0,1,Newcastle Jets,N,1.4,4.24,7.35,12,28-Jan-12,18:45
+627,2012,Melbourne Victory,2,2,Sydney FC,N,2.17,3.31,3.15,12,26-Jan-12,16:00
+628,2012,Adelaide Utd,1,1,Newcastle Jets,N,2.01,3.27,3.52,11,25-Jan-12,19:30
+629,2012,Perth Glory,4,1,Melbourne Victory,N,2.53,3.2,2.63,12,22-Jan-12,16:30
+630,2012,Sydney FC,2,1,Gold Coast,N,1.88,3.37,3.88,12,22-Jan-12,17:00
+631,2012,Melbourne City,1,1,Brisbane Roar,N,3.32,3.35,2.06,12,21-Jan-12,19:45
+632,2012,Central Coast Mariners,3,2,Adelaide Utd,N,1.8,3.41,4.39,12,21-Jan-12,17:30
+633,2012,Newcastle Jets,0,1,Wellington Phoenix,N,2.21,3.26,3.05,12,20-Jan-12,20:00
+634,2012,Melbourne City,0,1,Central Coast Mariners,N,3.3,3.26,2.1,12,18-Jan-12,19:30
+635,2012,Sydney FC,1,1,Perth Glory,N,1.91,3.44,3.69,12,18-Jan-12,17:30
+636,2012,Gold Coast,0,1,Wellington Phoenix,N,1.95,3.35,3.63,12,15-Jan-12,17:30
+637,2012,Melbourne City,1,2,Perth Glory,N,1.89,3.37,3.86,12,15-Jan-12,16:00
+638,2012,Brisbane Roar,2,1,Sydney FC,N,1.57,3.71,5.48,12,14-Jan-12,18:45
+639,2012,Central Coast Mariners,1,1,Newcastle Jets,N,1.43,4.12,6.79,12,14-Jan-12,17:30
+640,2012,Melbourne Victory,1,1,Adelaide Utd,N,1.83,3.48,3.96,12,13-Jan-12,20:00
+641,2012,Gold Coast,1,1,Melbourne City,N,2.4,3.21,2.79,12,08-Jan-12,17:30
+642,2012,Sydney FC,0,1,Central Coast Mariners,N,2.97,3.25,2.26,12,08-Jan-12,16:00
+643,2012,Wellington Phoenix,0,1,Perth Glory,N,1.62,3.7,5.11,12,08-Jan-12,16:00
+644,2012,Melbourne Victory,2,1,Newcastle Jets,N,1.69,3.59,4.6,12,07-Jan-12,19:45
+645,2012,Adelaide Utd,1,1,Brisbane Roar,N,3.08,3.29,2.18,12,07-Jan-12,17:00
+646,2012,Perth Glory,3,3,Brisbane Roar,N,3.77,3.36,1.9,12,04-Jan-12,19:00
+647,2012,Central Coast Mariners,2,0,Melbourne Victory,N,1.69,3.61,4.59,12,04-Jan-12,19:45
+648,2012,Newcastle Jets,3,2,Gold Coast,N,2.54,3.2,2.64,12,04-Jan-12,17:30
+649,2012,Melbourne City,1,3,Adelaide Utd,N,1.78,3.46,4.23,12,04-Jan-12,15:15
+650,2012,Wellington Phoenix,4,2,Sydney FC,N,2.32,3.24,2.89,12,04-Jan-12,15:00
+651,2011,Brisbane Roar,3,1,Melbourne Victory,N,1.82,3.55,3.93,12,31-Dec-11,19:30
+652,2011,Central Coast Mariners,0,0,Gold Coast,N,1.51,3.89,5.96,12,31-Dec-11,18:15
+653,2011,Newcastle Jets,1,1,Perth Glory,N,1.82,3.42,4.11,12,31-Dec-11,16:00
+654,2011,Adelaide Utd,2,0,Wellington Phoenix,N,2.21,3.28,3.03,12,30-Dec-11,19:30
+655,2011,Sydney FC,0,4,Melbourne City,N,2.21,3.22,3.07,12,29-Dec-11,19:30
+656,2011,Gold Coast,1,0,Brisbane Roar,N,3.79,3.44,1.88,12,26-Dec-11,18:30
+657,2011,Perth Glory,1,3,Central Coast Mariners,N,3.7,3.35,1.93,12,23-Dec-11,19:00
+658,2011,Melbourne City,3,2,Melbourne Victory,N,2.53,3.22,2.64,12,23-Dec-11,20:00
+659,2011,Wellington Phoenix,5,2,Newcastle Jets,N,1.89,3.28,3.94,12,23-Dec-11,19:30
+660,2011,Sydney FC,2,2,Adelaide Utd,N,1.54,3.79,5.72,12,22-Dec-11,19:30
+661,2011,Melbourne Victory,3,1,Wellington Phoenix,N,1.68,3.47,4.92,12,18-Dec-11,17:00
+662,2011,Perth Glory,1,2,Melbourne City,N,2.25,3.19,3.02,12,17-Dec-11,19:00
+663,2011,Brisbane Roar,1,2,Central Coast Mariners,N,2.26,3.25,2.97,12,17-Dec-11,18:45
+664,2011,Newcastle Jets,1,2,Sydney FC,N,2.58,3.16,2.63,12,17-Dec-11,17:30
+665,2011,Adelaide Utd,0,3,Gold Coast,N,1.99,3.27,3.57,12,16-Dec-11,19:30
+666,2011,Wellington Phoenix,2,0,Brisbane Roar,N,3.95,3.54,1.81,12,14-Dec-11,19:30
+667,2011,Gold Coast,0,0,Sydney FC,N,2.95,3.25,2.27,11,11-Dec-11,16:00
+668,2011,Melbourne Victory,1,1,Adelaide Utd,N,1.73,3.52,4.44,12,10-Dec-11,19:45
+669,2011,Central Coast Mariners,2,0,Newcastle Jets,N,1.7,3.51,4.63,12,10-Dec-11,17:30
+670,2011,Wellington Phoenix,1,0,Perth Glory,N,2.08,3.22,3.37,12,10-Dec-11,17:00
+671,2011,Brisbane Roar,1,2,Melbourne City,N,1.43,4.1,6.95,11,09-Dec-11,19:00
+672,2011,Sydney FC,2,0,Brisbane Roar,N,4.07,3.41,1.82,12,04-Dec-11,17:00
+673,2011,Melbourne City,1,0,Wellington Phoenix,N,2,3.22,3.58,12,04-Dec-11,15:00
+674,2011,Perth Glory,2,0,Gold Coast,N,2.07,3.24,3.4,12,03-Dec-11,19:00
+675,2011,Newcastle Jets,3,1,Melbourne Victory,N,2.43,3.18,2.78,12,03-Dec-11,19:45
+676,2011,Adelaide Utd,0,4,Central Coast Mariners,N,3.13,3.24,2.18,12,02-Dec-11,19:30
+677,2011,Melbourne Victory,3,2,Gold Coast,N,1.91,3.34,3.83,12,27-Nov-11,17:00
+678,2011,Wellington Phoenix,2,1,Sydney FC,N,2.82,3.21,2.38,12,27-Nov-11,16:30
+679,2011,Brisbane Roar,4,0,Perth Glory,N,1.48,3.95,6.34,12,26-Nov-11,18:45
+680,2011,Central Coast Mariners,3,1,Melbourne City,N,1.72,3.46,4.64,12,26-Nov-11,17:30
+681,2011,Adelaide Utd,0,0,Newcastle Jets,N,2.17,3.22,3.16,12,25-Nov-11,19:30
+682,2011,Melbourne Victory,2,2,Perth Glory,N,1.86,3.35,4.02,12,20-Nov-11,17:00
+683,2011,Sydney FC,2,3,Central Coast Mariners,N,2.1,3.2,3.35,12,19-Nov-11,19:45
+684,2011,Newcastle Jets,1,2,Brisbane Roar,N,4.01,3.4,1.84,12,19-Nov-11,17:30
+685,2011,Wellington Phoenix,1,1,Adelaide Utd,N,2.26,3.22,2.97,12,19-Nov-11,17:00
+686,2011,Gold Coast,1,2,Melbourne City,N,2.02,3.28,3.48,12,18-Nov-11,19:00
+687,2011,Brisbane Roar,1,1,Wellington Phoenix,N,1.29,4.88,9.6,12,13-Nov-11,16:00
+688,2011,Perth Glory,0,1,Sydney FC,N,2.46,3.17,2.73,12,12-Nov-11,19:00
+689,2011,Central Coast Mariners,0,0,Melbourne Victory,N,2.02,3.29,3.49,12,12-Nov-11,19:45
+690,2011,Melbourne City,3,0,Newcastle Jets,N,2.35,3.19,2.87,12,12-Nov-11,17:30
+691,2011,Adelaide Utd,2,1,Gold Coast,N,2.25,3.22,2.98,12,11-Nov-11,19:30
+692,2011,Sydney FC,3,2,Gold Coast,N,1.96,3.26,3.69,11,06-Nov-11,17:00
+693,2011,Melbourne Victory,2,2,Brisbane Roar,N,3.62,3.35,1.95,12,05-Nov-11,19:45
+694,2011,Newcastle Jets,2,0,Perth Glory,N,2.27,3.24,2.98,12,05-Nov-11,17:30
+695,2011,Adelaide Utd,1,1,Melbourne City,N,2.07,3.23,3.39,12,04-Nov-11,19:30
+696,2011,Wellington Phoenix,1,2,Central Coast Mariners,N,2.5,3.14,2.71,12,04-Nov-11,19:30
+697,2011,Gold Coast,3,1,Newcastle Jets,N,2.11,3.19,3.32,12,30-Oct-11,16:00
+698,2011,Wellington Phoenix,1,2,Melbourne Victory,N,2.59,3.15,2.62,11,30-Oct-11,16:30
+699,2011,Melbourne City,1,1,Sydney FC,N,2.74,3.14,2.47,12,29-Oct-11,19:45
+700,2011,Central Coast Mariners,2,1,Perth Glory,N,2.23,3.19,3.06,12,29-Oct-11,17:30
+701,2011,Brisbane Roar,7,1,Adelaide Utd,N,1.56,3.59,5.87,12,28-Oct-11,19:00
+702,2011,Perth Glory,1,0,Wellington Phoenix,N,1.65,3.51,5.12,12,23-Oct-11,16:30
+703,2011,Newcastle Jets,1,0,Central Coast Mariners,N,2.67,3.17,2.51,12,23-Oct-11,17:00
+704,2011,Melbourne Victory,0,0,Melbourne City,N,1.71,3.5,4.58,12,22-Oct-11,19:45
+705,2011,Adelaide Utd,1,2,Sydney FC,N,2.02,3.23,3.52,12,22-Oct-11,17:00
+706,2011,Brisbane Roar,3,0,Gold Coast,N,1.6,3.59,5.36,12,21-Oct-11,19:30
+707,2011,Melbourne City,1,2,Perth Glory,N,2.4,3.19,2.8,12,16-Oct-11,17:00
+708,2011,Wellington Phoenix,2,0,Newcastle Jets,N,2.03,3.27,3.47,11,16-Oct-11,16:30
+709,2011,Sydney FC,0,2,Brisbane Roar,N,2.56,3.2,2.6,12,15-Oct-11,19:45
+710,2011,Central Coast Mariners,1,1,Gold Coast,N,1.84,3.38,4.06,12,15-Oct-11,17:30
+711,2011,Adelaide Utd,1,0,Melbourne Victory,N,2.45,3.23,2.69,12,14-Oct-11,19:30
+712,2011,Perth Glory,1,0,Adelaide Utd,N,2.45,3.21,2.7,12,09-Oct-11,16:30
+713,2011,Gold Coast,1,1,Wellington Phoenix,N,1.84,3.34,4.05,12,09-Oct-11,16:00
+714,2011,Brisbane Roar,1,0,Central Coast Mariners,N,2.17,3.23,3.11,12,08-Oct-11,19:45
+715,2011,Melbourne Victory,0,0,Sydney FC,N,1.91,3.37,3.68,12,08-Oct-11,18:30
+716,2011,Newcastle Jets,3,2,Melbourne City,N,2.03,3.22,3.49,12,08-Oct-11,16:30
+717,2011,Brisbane Roar,0,0,Central Coast Mariners,Y,1.71,3.46,4.67,11,13-Mar-11,16:00
+718,2011,Central Coast Mariners,1,0,Gold Coast,Y,1.97,3.31,3.58,9,05-Mar-11,19:00
+719,2011,Adelaide Utd,2,3,Gold Coast,Y,2.08,3.22,3.37,11,27-Feb-11,17:00
+720,2011,Brisbane Roar,2,2,Central Coast Mariners,Y,1.66,3.55,4.82,11,26-Feb-11,19:00
+721,2011,Gold Coast,1,0,Melbourne Victory,Y,2.73,3.14,2.5,11,20-Feb-11,16:30
+722,2011,Central Coast Mariners,0,2,Brisbane Roar,Y,2.76,3.15,2.43,11,19-Feb-11,19:00
+723,2011,Adelaide Utd,1,0,Wellington Phoenix,Y,1.68,3.48,4.85,11,18-Feb-11,19:30
+724,2011,Central Coast Mariners,1,0,Newcastle Jets,N,1.54,3.81,5.72,11,13-Feb-11,17:00
+725,2011,Wellington Phoenix,3,1,North Queensland,N,1.27,5.14,9.22,11,13-Feb-11,17:00
+726,2011,Brisbane Roar,4,0,Gold Coast,N,1.75,3.49,4.35,11,12-Feb-11,20:15
+727,2011,Melbourne City,2,2,Sydney FC,N,2.41,3.13,2.81,11,12-Feb-11,19:00
+728,2011,Adelaide Utd,2,1,Melbourne Victory,N,2.3,3.28,2.85,11,11-Feb-11,19:30
+729,2011,Newcastle Jets,4,0,Perth Glory,N,1.55,3.76,5.56,11,10-Feb-11,19:30
+730,2011,Gold Coast,1,3,Central Coast Mariners,N,2.35,3.16,2.87,11,09-Feb-11,20:00
+731,2011,Sydney FC,2,0,Wellington Phoenix,N,1.85,3.38,3.95,11,09-Feb-11,19:00
+732,2011,North Queensland,1,2,Brisbane Roar,N,9.42,4.62,1.3,11,08-Feb-11,19:00
+733,2011,Perth Glory,1,2,Gold Coast,N,3.58,3.3,1.96,11,06-Feb-11,17:00
+734,2011,Newcastle Jets,1,1,Sydney FC,N,3,3.22,2.25,11,06-Feb-11,17:00
+735,2011,Adelaide Utd,0,1,Wellington Phoenix,N,1.42,4.1,6.96,11,05-Feb-11,18:30
+736,2011,Melbourne City,1,1,Central Coast Mariners,N,3.06,3.25,2.21,10,04-Feb-11,20:00
+737,2011,Gold Coast,0,0,Adelaide Utd,N,2.76,3.13,2.46,11,02-Feb-11,20:00
+738,2011,Melbourne Victory,2,0,Newcastle Jets,N,1.43,4.08,6.85,11,02-Feb-11,19:00
+739,2011,Melbourne Victory,2,0,Gold Coast,N,2.5,3.22,2.63,11,30-Jan-11,17:00
+740,2011,Wellington Phoenix,1,0,Newcastle Jets,N,1.49,3.88,6.23,11,30-Jan-11,17:00
+741,2011,Perth Glory,0,2,Sydney FC,N,3.21,3.31,2.09,11,29-Jan-11,18:45
+742,2011,Adelaide Utd,1,2,Central Coast Mariners,N,2.15,3.24,3.15,11,29-Jan-11,19:00
+743,2011,Brisbane Roar,2,1,Melbourne City,N,1.49,4.1,5.75,2,29-Jan-11,16:30
+744,2011,North Queensland,0,3,Melbourne Victory,N,5.11,3.74,1.59,11,26-Jan-11,19:00
+745,2011,Brisbane Roar,2,0,Wellington Phoenix,N,1.35,4.63,7.75,2,26-Jan-11,17:00
+746,2011,Central Coast Mariners,2,2,Sydney FC,N,1.69,3.63,4.61,11,23-Jan-11,17:00
+747,2011,Wellington Phoenix,4,0,Perth Glory,N,1.56,3.74,5.64,11,23-Jan-11,17:00
+748,2011,Gold Coast,5,1,Newcastle Jets,N,1.58,3.59,5.65,11,22-Jan-11,20:15
+749,2011,Melbourne Victory,2,2,Melbourne City,N,2.15,3.24,3.18,11,22-Jan-11,19:00
+750,2011,Adelaide Utd,8,1,North Queensland,N,1.34,4.56,8.05,11,21-Jan-11,19:30
+751,2011,Perth Glory,1,2,Central Coast Mariners,N,2.66,3.2,2.49,11,19-Jan-11,19:00
+752,2011,Melbourne City,1,1,Gold Coast,N,2.55,3.16,2.63,11,19-Jan-11,20:00
+753,2011,Newcastle Jets,0,2,Central Coast Mariners,N,2.48,3.13,2.72,11,16-Jan-11,17:00
+754,2011,Perth Glory,1,1,Melbourne City,N,2.16,3.19,3.17,11,15-Jan-11,18:45
+755,2011,Sydney FC,1,1,Melbourne Victory,N,2.21,3.23,3.03,11,15-Jan-11,19:30
+756,2011,Gold Coast,4,0,North Queensland,N,1.51,3.86,5.83,11,14-Jan-11,19:30
+757,2011,Central Coast Mariners,3,3,Brisbane Roar,N,3,3.2,2.4,1,12-Jan-11,19:30
+758,2011,Newcastle Jets,1,0,North Queensland,N,1.48,3.96,6.12,11,11-Jan-11,19:30
+759,2011,Central Coast Mariners,1,0,Wellington Phoenix,N,1.65,3.58,4.85,11,09-Jan-11,17:00
+760,2011,Melbourne Victory,1,4,Adelaide Utd,N,2.13,3.28,3.17,11,09-Jan-11,15:00
+761,2011,North Queensland,1,3,Newcastle Jets,N,2.67,3.18,2.49,11,08-Jan-11,20:15
+762,2011,Sydney FC,2,0,Gold Coast,N,2.51,3.16,2.64,11,08-Jan-11,19:00
+763,2011,Brisbane Roar,1,1,Perth Glory,N,1.46,3.79,6.18,5,07-Jan-11,19:30
+764,2011,Wellington Phoenix,2,0,Melbourne Victory,N,2.45,3.21,2.69,11,05-Jan-11,19:30
+765,2011,Gold Coast,0,0,Perth Glory,N,1.56,3.72,5.5,11,03-Jan-11,18:00
+766,2011,Newcastle Jets,1,2,Sydney FC,N,1.71,3.5,4.58,11,03-Jan-11,17:00
+767,2011,Adelaide Utd,0,1,Brisbane Roar,N,2.7,3.18,2.46,11,02-Jan-11,18:30
+768,2011,Melbourne City,2,0,North Queensland,N,1.75,3.48,4.3,11,02-Jan-11,17:00
+769,2010,Central Coast Mariners,1,2,Melbourne Victory,N,2.03,3.29,3.38,11,31-Dec-10,18:00
+770,2010,Adelaide Utd,2,0,Sydney FC,N,1.58,3.73,5.29,11,29-Dec-10,19:30
+771,2010,North Queensland,1,1,Wellington Phoenix,N,2.37,3.19,2.81,11,27-Dec-10,19:15
+772,2010,Melbourne Victory,2,1,Newcastle Jets,N,1.99,3.28,3.51,11,27-Dec-10,18:00
+773,2010,Brisbane Roar,2,2,Gold Coast,N,1.87,3.25,4.06,11,26-Dec-10,18:15
+774,2010,Central Coast Mariners,2,0,Adelaide Utd,N,2,3.27,3.52,11,26-Dec-10,17:00
+775,2010,Sydney FC,0,1,Melbourne City,N,1.99,3.28,3.54,11,23-Dec-10,19:00
+776,2010,Perth Glory,4,2,Adelaide Utd,N,3.44,3.25,2.03,11,22-Dec-10,19:00
+777,2010,Central Coast Mariners,1,0,North Queensland,N,1.48,3.93,6.17,11,22-Dec-10,19:30
+778,2010,North Queensland,0,2,Brisbane Roar,N,4.52,3.5,1.72,11,18-Dec-10,20:15
+779,2010,Melbourne Victory,2,0,Perth Glory,N,1.51,3.88,5.79,11,18-Dec-10,19:00
+780,2010,Wellington Phoenix,4,0,Newcastle Jets,N,2.1,3.27,3.26,11,18-Dec-10,19:00
+781,2010,Adelaide Utd,1,2,Melbourne City,N,1.37,4.36,7.61,11,17-Dec-10,19:30
+782,2010,North Queensland,1,0,Sydney FC,N,2.86,3.28,2.29,11,15-Dec-10,20:00
+783,2010,Newcastle Jets,2,0,Gold Coast,N,2.33,3.22,2.85,11,15-Dec-10,19:00
+784,2010,Perth Glory,1,1,Central Coast Mariners,N,3.4,3.43,1.95,11,12-Dec-10,17:00
+785,2010,Sydney FC,0,1,Brisbane Roar,N,3.22,3.34,2.08,11,12-Dec-10,17:00
+786,2010,Gold Coast,2,0,Wellington Phoenix,N,1.6,3.72,5.14,11,11-Dec-10,20:15
+787,2010,Melbourne City,1,3,Melbourne Victory,N,3.07,3.27,2.18,11,11-Dec-10,19:00
+788,2010,Adelaide Utd,2,0,North Queensland,N,1.43,4.12,6.74,11,10-Dec-10,19:30
+789,2010,Melbourne City,0,2,Newcastle Jets,N,2.2,3.25,3.05,11,08-Dec-10,19:00
+790,2010,Gold Coast,3,0,Melbourne City,N,1.85,3.44,3.86,11,05-Dec-10,16:00
+791,2010,Wellington Phoenix,2,1,Adelaide Utd,N,2.99,3.26,2.23,11,05-Dec-10,17:00
+792,2010,North Queensland,0,2,Newcastle Jets,N,2.34,3.2,2.84,11,04-Dec-10,20:15
+793,2010,Central Coast Mariners,4,0,Sydney FC,N,2.19,3.27,3.04,11,04-Dec-10,19:00
+794,2010,Melbourne Victory,3,3,Brisbane Roar,N,2.84,3.24,2.32,11,03-Dec-10,20:00
+795,2010,Gold Coast,1,2,North Queensland,N,1.54,3.73,5.67,11,01-Dec-10,20:00
+796,2010,Sydney FC,3,1,Wellington Phoenix,N,1.69,3.54,4.66,11,01-Dec-10,19:00
+797,2010,North Queensland,1,1,Perth Glory,N,1.94,3.39,3.63,11,28-Nov-10,17:00
+798,2010,Central Coast Mariners,1,5,Brisbane Roar,N,2.57,3.16,2.59,11,28-Nov-10,16:00
+799,2010,Melbourne City,0,0,Sydney FC,N,2.24,3.21,3.01,11,27-Nov-10,20:15
+800,2010,Wellington Phoenix,2,2,Melbourne Victory,N,2.46,3.19,2.69,11,27-Nov-10,18:00
+801,2010,Adelaide Utd,2,1,Gold Coast,N,2.27,3.19,2.95,11,26-Nov-10,19:30
+802,2010,Brisbane Roar,3,2,Perth Glory,N,1.44,4.04,6.76,11,24-Nov-10,20:00
+803,2010,Newcastle Jets,1,1,Central Coast Mariners,N,2.51,3.12,2.68,11,24-Nov-10,19:00
+804,2010,Wellington Phoenix,2,0,Melbourne City,N,2.23,3.23,3.02,11,24-Nov-10,19:00
+805,2010,Central Coast Mariners,2,3,Gold Coast,N,2.38,3.15,2.85,11,21-Nov-10,17:00
+806,2010,Sydney FC,2,0,Perth Glory,N,1.88,3.34,3.84,11,21-Nov-10,15:00
+807,2010,Brisbane Roar,1,1,North Queensland,N,1.45,4.01,6.6,11,20-Nov-10,20:15
+808,2010,Newcastle Jets,1,0,Wellington Phoenix,N,1.95,3.27,3.64,11,20-Nov-10,19:00
+809,2010,Melbourne City,0,2,Adelaide Utd,N,2.34,3.2,2.83,11,19-Nov-10,20:00
+810,2010,Melbourne Victory,2,2,Central Coast Mariners,N,2.36,3.18,2.83,11,18-Nov-10,19:30
+811,2010,Newcastle Jets,1,1,Brisbane Roar,N,3.43,3.25,2.04,11,17-Nov-10,19:30
+812,2010,Perth Glory,3,1,Melbourne Victory,N,2.8,3.2,2.39,10,14-Nov-10,16:00
+813,2010,Melbourne City,1,2,Brisbane Roar,N,3.09,3.22,2.19,10,14-Nov-10,17:00
+814,2010,Newcastle Jets,3,1,Adelaide Utd,N,3.02,3.22,2.23,10,13-Nov-10,19:45
+815,2010,Wellington Phoenix,0,3,Central Coast Mariners,N,2.36,3.17,2.84,10,13-Nov-10,19:30
+816,2010,Gold Coast,3,1,Sydney FC,N,1.96,3.25,3.68,10,12-Nov-10,19:30
+817,2010,North Queensland,2,3,Melbourne City,N,2.53,3.16,2.65,9,10-Nov-10,20:00
+818,2010,Adelaide Utd,2,0,Perth Glory,N,1.57,3.69,5.52,9,10-Nov-10,18:30
+819,2010,Perth Glory,0,1,Wellington Phoenix,N,2.11,3.27,3.27,10,07-Nov-10,16:00
+820,2010,Sydney FC,1,0,Newcastle Jets,N,1.82,3.39,4.1,10,07-Nov-10,17:00
+821,2010,Brisbane Roar,4,0,Adelaide Utd,N,2.18,3.28,3.09,10,06-Nov-10,20:15
+822,2010,Melbourne Victory,0,1,Gold Coast,N,2.13,3.26,3.22,10,06-Nov-10,19:00
+823,2010,North Queensland,0,1,Central Coast Mariners,N,2.68,3.21,2.47,10,05-Nov-10,19:30
+824,2010,Perth Glory,0,0,Melbourne City,N,2.46,3.2,2.7,10,03-Nov-10,19:00
+825,2010,Wellington Phoenix,1,4,Brisbane Roar,N,2.55,3.18,2.61,10,03-Nov-10,19:30
+826,2010,North Queensland,1,2,Gold Coast,N,2.57,3.17,2.6,10,31-Oct-10,17:00
+827,2010,Newcastle Jets,0,2,Melbourne City,N,2.33,3.17,2.89,10,31-Oct-10,15:00
+828,2010,Central Coast Mariners,5,0,Perth Glory,N,1.97,3.28,3.59,10,30-Oct-10,19:30
+829,2010,Sydney FC,1,1,Brisbane Roar,N,2.36,3.15,2.88,10,30-Oct-10,17:15
+830,2010,Melbourne Victory,2,1,Adelaide Utd,N,2.43,3.18,2.74,10,29-Oct-10,20:00
+831,2010,Perth Glory,0,3,Sydney FC,N,2.21,3.23,3.07,10,24-Oct-10,16:00
+832,2010,Brisbane Roar,2,1,Melbourne Victory,N,2.12,3.26,3.24,10,23-Oct-10,20:15
+833,2010,Melbourne City,0,0,Gold Coast,N,2.43,3.18,2.74,10,23-Oct-10,19:00
+834,2010,Adelaide Utd,3,0,Wellington Phoenix,N,1.57,3.74,5.4,10,22-Oct-10,19:30
+835,2010,Brisbane Roar,2,0,Central Coast Mariners,N,2.2,3.21,3.09,10,20-Oct-10,19:00
+836,2010,Gold Coast,0,0,Adelaide Utd,N,2.48,3.12,2.74,10,17-Oct-10,16:00
+837,2010,Wellington Phoenix,2,2,Melbourne City,N,1.92,3.35,3.73,10,17-Oct-10,17:00
+838,2010,Brisbane Roar,1,1,Newcastle Jets,N,1.75,3.41,4.42,10,16-Oct-10,19:45
+839,2010,Melbourne Victory,3,0,Sydney FC,N,2.15,3.24,3.18,10,16-Oct-10,18:45
+840,2010,North Queensland,2,1,Perth Glory,N,2.41,3.19,2.78,10,15-Oct-10,19:30
+841,2010,Melbourne City,2,1,Melbourne Victory,N,2.94,3.14,2.33,10,08-Oct-10,19:30
+842,2010,Sydney FC,1,2,Adelaide Utd,N,2.8,3.21,2.37,10,04-Oct-10,17:00
+843,2010,Perth Glory,1,2,Brisbane Roar,N,2.13,3.2,3.25,10,03-Oct-10,17:00
+844,2010,Central Coast Mariners,3,2,North Queensland,N,1.76,3.38,4.41,10,02-Oct-10,17:15
+845,2010,Gold Coast,3,1,Wellington Phoenix,N,2.12,3.18,3.29,10,01-Oct-10,20:00
+846,2010,Sydney FC,1,1,North Queensland,N,1.87,3.33,3.92,10,29-Sep-10,19:30
+847,2010,Sydney FC,1,1,Gold Coast,N,2.18,3.22,3.14,10,26-Sep-10,15:00
+848,2010,Newcastle Jets,0,0,Melbourne Victory,N,2.5,3.15,2.7,10,25-Sep-10,19:30
+849,2010,Brisbane Roar,4,0,Melbourne City,N,2.07,3.25,3.4,10,25-Sep-10,17:15
+850,2010,Adelaide Utd,2,0,Perth Glory,N,2.14,3.29,3.15,10,24-Sep-10,19:30
+851,2010,Wellington Phoenix,2,1,North Queensland,N,1.8,3.39,4.22,10,24-Sep-10,19:30
+852,2010,Gold Coast,1,0,Newcastle Jets,N,1.95,3.27,3.68,10,22-Sep-10,19:30
+853,2010,Gold Coast,0,0,Central Coast Mariners,N,2.16,3.22,3.17,10,19-Sep-10,17:00
+854,2010,Melbourne City,2,1,Wellington Phoenix,N,2.23,3.2,3.05,10,19-Sep-10,15:00
+855,2010,Brisbane Roar,1,1,Adelaide Utd,N,2.61,3.18,2.56,10,18-Sep-10,19:30
+856,2010,North Queensland,0,0,Melbourne Victory,N,2.66,3.19,2.5,10,18-Sep-10,17:15
+857,2010,Newcastle Jets,2,0,Perth Glory,N,2.74,3.19,2.43,10,17-Sep-10,20:00
+858,2010,Melbourne Victory,0,0,Wellington Phoenix,N,1.92,3.32,3.8,9,15-Sep-10,19:30
+859,2010,Perth Glory,0,1,Gold Coast,N,1.88,3.36,3.84,10,12-Sep-10,15:00
+860,2010,Melbourne Victory,3,0,Brisbane Roar,N,2.15,3.21,3.18,10,12-Sep-10,15:00
+861,2010,Adelaide Utd,2,1,Newcastle Jets,N,1.7,3.51,4.59,10,11-Sep-10,19:00
+862,2010,Wellington Phoenix,2,1,Sydney FC,N,2.1,3.23,3.29,10,11-Sep-10,19:15
+863,2010,Central Coast Mariners,1,0,Melbourne City,N,2.1,3.24,3.29,10,10-Sep-10,20:00
+864,2010,Perth Glory,2,1,Wellington Phoenix,N,1.85,3.3,4.04,10,05-Sep-10,15:00
+865,2010,Newcastle Jets,0,0,Brisbane Roar,N,2.49,3.14,2.69,10,05-Sep-10,15:00
+866,2010,Sydney FC,1,3,Adelaide Utd,N,2.08,3.26,3.39,10,04-Sep-10,19:30
+867,2010,Melbourne City,1,0,North Queensland,N,2.22,3.26,3.04,10,04-Sep-10,17:15
+868,2010,Central Coast Mariners,2,0,Melbourne Victory,N,2.7,3.17,2.48,10,03-Sep-10,20:00
+869,2010,Melbourne City,2,2,Perth Glory,N,2.75,3.18,2.44,9,29-Aug-10,17:00
+870,2010,Gold Coast,0,1,Melbourne Victory,N,2.39,3.2,2.79,10,29-Aug-10,15:00
+871,2010,Sydney FC,1,1,Central Coast Mariners,N,1.94,3.29,3.67,10,28-Aug-10,19:30
+872,2010,North Queensland,2,3,Adelaide Utd,N,2.38,3.19,2.8,10,28-Aug-10,17:15
+873,2010,Brisbane Roar,1,0,Wellington Phoenix,N,2.28,3.2,2.97,10,27-Aug-10,20:00
+874,2010,Melbourne Victory,2,2,North Queensland,N,1.75,3.46,4.33,10,22-Aug-10,15:00
+875,2010,Wellington Phoenix,2,0,Central Coast Mariners,N,1.94,3.28,3.71,10,22-Aug-10,15:00
+876,2010,Brisbane Roar,1,0,Sydney FC,N,2.79,3.18,2.4,10,21-Aug-10,19:30
+877,2010,Perth Glory,1,0,Newcastle Jets,N,1.77,3.42,4.31,10,21-Aug-10,15:15
+878,2010,Adelaide Utd,3,2,Melbourne City,N,2.13,3.21,3.27,9,20-Aug-10,19:30
+879,2010,Central Coast Mariners,1,1,Adelaide Utd,N,2.1,3.21,3.29,10,15-Aug-10,15:00
+880,2010,Melbourne Victory,0,2,Perth Glory,N,1.87,3.36,3.85,10,14-Aug-10,19:30
+881,2010,North Queensland,2,1,Sydney FC,N,3.16,3.24,2.15,10,14-Aug-10,17:15
+882,2010,Newcastle Jets,1,1,Melbourne City,N,2.18,3.27,3.11,8,13-Aug-10,20:00
+883,2010,Wellington Phoenix,3,3,Gold Coast,N,2.22,3.27,2.99,9,13-Aug-10,19:30
+884,2010,Gold Coast,0,0,Brisbane Roar,N,1.83,3.39,4,9,08-Aug-10,15:00
+885,2010,Sydney FC,3,3,Melbourne Victory,N,2.04,3.25,3.38,9,07-Aug-10,20:00
+886,2010,Perth Glory,3,3,North Queensland,N,1.61,3.6,5.18,10,06-Aug-10,20:00
+887,2010,Adelaide Utd,0,0,Newcastle Jets,N,2.14,3.27,3.15,10,06-Aug-10,19:30
+888,2010,Melbourne City,0,1,Central Coast Mariners,N,2.17,3.22,3.18,6,05-Aug-10,19:30
+889,2010,Melbourne Victory,1,1,Sydney FC,Y,2.18,3.27,3.17,7,20-Mar-10,19:00
+890,2010,Sydney FC,4,2,Wellington Phoenix,Y,1.8,3.4,4.21,8,13-Mar-10,20:30
+891,2010,Sydney FC,2,1,Melbourne Victory,Y,2.27,3.23,3.05,8,07-Mar-10,17:00
+892,2010,Wellington Phoenix,1,1,Newcastle Jets,Y,2.06,3.24,3.46,9,07-Mar-10,16:00
+893,2010,Wellington Phoenix,1,1,Perth Glory,Y,2.02,3.3,3.55,7,21-Feb-10,17:00
+894,2010,Gold Coast,0,0,Newcastle Jets,Y,1.56,3.72,5.64,8,20-Feb-10,19:00
+895,2010,Melbourne Victory,2,1,Sydney FC,Y,2.28,3.22,3.01,8,18-Feb-10,20:00
+896,2010,Sydney FC,2,0,Melbourne Victory,N,2.35,3.21,2.86,8,14-Feb-10,17:00
+897,2010,North Queensland,2,1,Gold Coast,N,3.82,3.34,1.9,9,13-Feb-10,20:00
+898,2010,Perth Glory,2,0,Brisbane Roar,N,1.81,3.41,4.16,8,13-Feb-10,16:00
+899,2010,Newcastle Jets,1,2,Adelaide Utd,N,2.13,3.24,3.29,9,12-Feb-10,20:00
+900,2010,Wellington Phoenix,3,0,Central Coast Mariners,N,1.71,3.47,4.74,9,12-Feb-10,19:30
+901,2010,Central Coast Mariners,3,0,Newcastle Jets,N,2.78,3.14,2.44,9,08-Feb-10,19:30
+902,2010,Gold Coast,0,1,Wellington Phoenix,N,1.55,3.76,5.7,9,07-Feb-10,18:00
+903,2010,Sydney FC,3,2,Perth Glory,N,1.65,3.61,4.86,9,07-Feb-10,17:00
+904,2010,Adelaide Utd,2,0,Brisbane Roar,N,2.47,3.16,2.7,9,06-Feb-10,19:30
+905,2010,Melbourne Victory,2,0,North Queensland,N,1.41,4.24,7.05,9,05-Feb-10,20:00
+906,2010,North Queensland,2,1,Newcastle Jets,N,2.83,3.21,2.36,9,02-Feb-10,19:30
+907,2010,Perth Glory,3,1,Central Coast Mariners,N,2.04,3.24,3.46,9,31-Jan-10,16:00
+908,2010,Brisbane Roar,1,0,Sydney FC,N,3.09,3.28,2.18,9,30-Jan-10,18:00
+909,2010,Wellington Phoenix,1,0,Adelaide Utd,N,1.87,3.34,3.98,9,30-Jan-10,19:00
+910,2010,Gold Coast,1,0,Melbourne Victory,N,2.34,3.27,2.82,9,29-Jan-10,19:30
+911,2010,Melbourne Victory,4,0,Wellington Phoenix,N,1.57,3.78,5.41,8,26-Jan-10,18:00
+912,2010,Newcastle Jets,1,3,Sydney FC,N,2.75,3.24,2.41,9,24-Jan-10,17:00
+913,2010,North Queensland,1,1,Brisbane Roar,N,2.26,3.23,3,9,23-Jan-10,20:00
+914,2010,Melbourne Victory,2,0,Adelaide Utd,N,1.43,4.08,6.79,9,23-Jan-10,19:00
+915,2010,Perth Glory,2,0,Wellington Phoenix,N,2.26,3.3,2.95,8,22-Jan-10,19:00
+916,2010,Central Coast Mariners,1,1,Gold Coast,N,3.17,3.26,2.17,8,22-Jan-10,20:00
+917,2010,Adelaide Utd,2,3,Perth Glory,N,1.99,3.29,3.59,8,19-Jan-10,19:30
+918,2010,Sydney FC,0,1,Gold Coast,N,1.98,3.33,3.57,8,17-Jan-10,17:00
+919,2010,Brisbane Roar,0,2,Newcastle Jets,N,2.37,3.28,2.78,8,16-Jan-10,20:00
+920,2010,Melbourne Victory,6,2,Perth Glory,N,1.68,3.5,4.86,8,16-Jan-10,19:00
+921,2010,Adelaide Utd,1,1,Central Coast Mariners,N,2.35,3.22,2.85,8,15-Jan-10,19:30
+922,2010,Wellington Phoenix,3,0,North Queensland,N,1.76,3.48,4.3,8,15-Jan-10,19:30
+923,2010,Gold Coast,2,0,Newcastle Jets,N,1.95,3.35,3.65,8,13-Jan-10,19:30
+924,2010,Perth Glory,0,0,Sydney FC,N,2.83,3.22,2.36,8,10-Jan-10,16:00
+925,2010,Newcastle Jets,3,2,Melbourne Victory,N,2.77,3.24,2.42,8,10-Jan-10,17:00
+926,2010,Gold Coast,1,1,Adelaide Utd,N,1.63,3.6,5.18,8,09-Jan-10,20:00
+927,2010,Central Coast Mariners,1,1,North Queensland,N,1.89,3.36,3.85,8,09-Jan-10,19:00
+928,2010,Wellington Phoenix,3,1,Brisbane Roar,N,2.12,3.23,3.26,8,09-Jan-10,19:00
+929,2009,Central Coast Mariners,0,2,Wellington Phoenix,N,2.03,3.22,3.51,8,31-Dec-09,18:00
+930,2009,North Queensland,1,0,Melbourne Victory,N,3.84,3.38,1.89,8,27-Dec-09,20:00
+931,2009,Sydney FC,1,0,Adelaide Utd,N,1.67,3.59,4.8,8,27-Dec-09,19:00
+932,2009,Perth Glory,4,0,Newcastle Jets,N,2.33,3.25,2.87,8,26-Dec-09,17:00
+933,2009,Gold Coast,5,1,Brisbane Roar,N,2.01,3.25,3.57,8,26-Dec-09,17:00
+934,2009,Sydney FC,1,0,Central Coast Mariners,N,1.88,3.34,3.89,8,23-Dec-09,19:30
+935,2009,Gold Coast,2,0,Perth Glory,N,2.02,3.31,3.45,8,20-Dec-09,18:00
+936,2009,Newcastle Jets,3,2,North Queensland,N,1.84,3.44,4,8,20-Dec-09,17:00
+937,2009,Melbourne Victory,0,0,Sydney FC,N,2.19,3.26,3.1,8,19-Dec-09,20:00
+938,2009,Central Coast Mariners,2,3,Brisbane Roar,N,2.04,3.28,3.43,8,19-Dec-09,18:00
+939,2009,Adelaide Utd,1,1,Wellington Phoenix,N,2.06,3.26,3.41,8,18-Dec-09,19:30
+940,2009,Brisbane Roar,2,0,North Queensland,N,2.09,3.28,3.26,8,16-Dec-09,19:30
+941,2009,Newcastle Jets,3,2,Gold Coast,N,2.42,3.24,2.74,8,13-Dec-09,17:00
+942,2009,Brisbane Roar,0,1,Adelaide Utd,N,2.09,3.23,3.36,8,12-Dec-09,20:00
+943,2009,Central Coast Mariners,0,3,Melbourne Victory,N,2.5,3.23,2.65,8,12-Dec-09,19:00
+944,2009,Wellington Phoenix,0,1,Sydney FC,N,2.67,3.17,2.51,8,12-Dec-09,19:00
+945,2009,North Queensland,1,0,Perth Glory,N,2.6,3.23,2.55,8,11-Dec-09,19:30
+946,2009,Perth Glory,1,1,Brisbane Roar,N,2.23,3.23,3.04,8,06-Dec-09,16:00
+947,2009,Gold Coast,2,1,Central Coast Mariners,N,2.31,3.24,2.91,8,05-Dec-09,20:00
+948,2009,Sydney FC,4,1,North Queensland,N,1.73,3.46,4.58,8,05-Dec-09,19:00
+949,2009,Adelaide Utd,0,2,Newcastle Jets,N,2.17,3.2,3.17,8,04-Dec-09,19:30
+950,2009,Wellington Phoenix,1,1,Melbourne Victory,N,2.91,3.23,2.32,8,04-Dec-09,19:30
+951,2009,Brisbane Roar,4,1,Wellington Phoenix,N,2.21,3.2,3.09,9,29-Nov-09,18:00
+952,2009,Sydney FC,1,3,Newcastle Jets,N,1.59,3.64,5.35,9,29-Nov-09,17:00
+953,2009,North Queensland,2,1,Adelaide Utd,N,2.6,3.16,2.58,9,28-Nov-09,20:00
+954,2009,Melbourne Victory,4,0,Gold Coast,N,1.98,3.3,3.57,9,28-Nov-09,19:00
+955,2009,Central Coast Mariners,0,0,Perth Glory,N,1.98,3.3,3.55,9,27-Nov-09,20:00
+956,2009,Perth Glory,2,0,Sydney FC,N,2.5,3.2,2.66,9,22-Nov-09,16:00
+957,2009,Newcastle Jets,0,1,Wellington Phoenix,N,2.17,3.25,3.1,9,22-Nov-09,17:00
+958,2009,North Queensland,1,5,Central Coast Mariners,N,2.58,3.19,2.57,9,21-Nov-09,20:00
+959,2009,Brisbane Roar,0,1,Melbourne Victory,N,2.7,3.26,2.46,8,21-Nov-09,18:00
+960,2009,Adelaide Utd,1,1,Gold Coast,N,2.48,3.23,2.65,9,20-Nov-09,19:30
+961,2009,Newcastle Jets,2,0,North Queensland,N,2.28,3.24,2.95,9,08-Nov-09,17:00
+962,2009,Wellington Phoenix,1,1,Perth Glory,N,2.29,3.23,2.96,9,08-Nov-09,17:00
+963,2009,Gold Coast,1,0,Sydney FC,N,2.39,3.25,2.74,9,07-Nov-09,20:00
+964,2009,Melbourne Victory,0,4,Central Coast Mariners,N,1.77,3.33,4.47,9,07-Nov-09,19:00
+965,2009,Adelaide Utd,0,2,Brisbane Roar,N,2.06,3.26,3.44,8,06-Nov-09,19:30
+966,2009,Wellington Phoenix,3,0,Newcastle Jets,N,2.15,3.24,3.21,8,04-Nov-09,20:00
+967,2009,Perth Glory,1,2,Melbourne Victory,N,2.39,3.24,2.76,9,01-Nov-09,16:00
+968,2009,Sydney FC,3,1,Wellington Phoenix,N,1.79,3.39,4.34,9,01-Nov-09,17:00
+969,2009,Gold Coast,0,2,North Queensland,N,1.73,3.45,4.62,9,31-Oct-09,20:00
+970,2009,Central Coast Mariners,0,0,Adelaide Utd,N,2.49,3.22,2.66,9,31-Oct-09,19:00
+971,2009,Brisbane Roar,1,1,Newcastle Jets,N,2.09,3.25,3.31,9,30-Oct-09,19:30
+972,2009,Sydney FC,2,1,Brisbane Roar,N,1.81,3.35,4.2,9,25-Oct-09,17:00
+973,2009,Wellington Phoenix,6,0,Gold Coast,N,3.02,3.24,2.24,9,25-Oct-09,17:00
+974,2009,North Queensland,2,1,Perth Glory,N,2.71,3.21,2.43,9,24-Oct-09,19:30
+975,2009,Melbourne Victory,3,1,Adelaide Utd,N,1.83,3.32,4.1,9,24-Oct-09,18:30
+976,2009,Newcastle Jets,2,1,Central Coast Mariners,N,2.55,3.17,2.62,9,23-Oct-09,20:00
+977,2009,Gold Coast,2,1,Perth Glory,N,1.83,3.37,4.04,9,18-Oct-09,16:00
+978,2009,Newcastle Jets,1,3,Melbourne Victory,N,2.74,3.2,2.44,9,18-Oct-09,15:00
+979,2009,North Queensland,1,1,Wellington Phoenix,N,2.28,3.21,2.94,9,17-Oct-09,19:30
+980,2009,Brisbane Roar,0,3,Central Coast Mariners,N,2.25,3.26,2.95,9,17-Oct-09,17:30
+981,2009,Adelaide Utd,2,1,Sydney FC,N,2.72,3.18,2.46,9,16-Oct-09,19:30
+982,2009,Brisbane Roar,0,1,Gold Coast,N,2.56,3.19,2.59,9,11-Oct-09,16:00
+983,2009,Central Coast Mariners,1,1,North Queensland,N,1.68,3.5,4.84,9,11-Oct-09,15:00
+984,2009,Perth Glory,1,0,Adelaide Utd,N,2.24,3.15,3.07,9,09-Oct-09,19:00
+985,2009,Melbourne Victory,0,3,Sydney FC,N,2.05,3.23,3.42,9,09-Oct-09,20:00
+986,2009,Adelaide Utd,1,1,Newcastle Jets,N,1.97,3.24,3.56,9,05-Oct-09,16:30
+987,2009,Sydney FC,1,0,Central Coast Mariners,N,2.1,3.21,3.25,9,05-Oct-09,15:00
+988,2009,Melbourne Victory,2,1,Brisbane Roar,N,2.06,3.25,3.29,9,03-Oct-09,19:30
+989,2009,Perth Glory,1,1,North Queensland,N,1.67,3.45,4.73,9,03-Oct-09,15:30
+990,2009,Gold Coast,0,0,Wellington Phoenix,N,1.46,3.92,6.67,9,02-Oct-09,20:00
+991,2009,North Queensland,0,2,Adelaide Utd,N,2.52,3.18,2.63,9,27-Sep-09,17:00
+992,2009,Brisbane Roar,1,0,Sydney FC,N,2.34,3.23,2.82,8,27-Sep-09,15:00
+993,2009,Wellington Phoenix,0,0,Central Coast Mariners,N,2.3,3.23,2.9,9,27-Sep-09,16:00
+994,2009,Gold Coast,2,3,Melbourne Victory,N,2.21,3.24,3.04,9,26-Sep-09,19:30
+995,2009,Newcastle Jets,0,1,Perth Glory,N,2.48,3.22,2.66,9,25-Sep-09,20:00
+996,2009,Brisbane Roar,2,4,Perth Glory,N,1.93,3.25,3.62,9,20-Sep-09,17:00
+997,2009,Sydney FC,2,1,Newcastle Jets,N,1.79,3.34,4.15,9,20-Sep-09,15:00
+998,2009,Wellington Phoenix,1,1,North Queensland,N,2.02,3.25,3.39,9,20-Sep-09,15:00
+999,2009,Central Coast Mariners,3,0,Gold Coast,N,2.96,3.2,2.24,9,19-Sep-09,19:30
+1000,2009,Adelaide Utd,0,2,Melbourne Victory,N,2.38,3.18,2.83,9,18-Sep-09,19:30
+1001,2009,Perth Glory,2,2,Gold Coast,N,3.02,3.2,2.22,8,13-Sep-09,15:00
+1002,2009,Melbourne Victory,1,1,Wellington Phoenix,N,1.62,3.55,5.18,9,13-Sep-09,15:00
+1003,2009,Sydney FC,0,1,North Queensland,N,1.43,4.03,6.98,9,12-Sep-09,19:30
+1004,2009,Newcastle Jets,0,3,Brisbane Roar,N,2.22,3.19,3.06,9,12-Sep-09,17:30
+1005,2009,Adelaide Utd,1,0,Central Coast Mariners,N,2.23,3.23,3.01,9,11-Sep-09,19:30
+1006,2009,North Queensland,1,1,Brisbane Roar,N,3.42,3.29,2.02,8,05-Sep-09,19:00
+1007,2009,Gold Coast,2,1,Sydney FC,N,2.19,3.26,3.03,8,05-Sep-09,17:00
+1008,2009,Central Coast Mariners,2,1,Perth Glory,N,2.31,3.27,2.83,9,04-Sep-09,20:00
+1009,2009,Wellington Phoenix,1,1,Adelaide Utd,N,2.36,3.2,2.8,9,04-Sep-09,19:30
+1010,2009,Melbourne Victory,1,1,Newcastle Jets,N,1.79,3.46,4.16,9,03-Sep-09,19:30
+1011,2009,Sydney FC,2,0,Wellington Phoenix,N,1.65,3.52,4.93,9,30-Aug-09,17:00
+1012,2009,Newcastle Jets,1,0,Gold Coast,N,4.02,3.47,1.8,8,30-Aug-09,15:00
+1013,2009,Brisbane Roar,1,0,Central Coast Mariners,N,2.2,3.26,3.05,9,29-Aug-09,15:00
+1014,2009,Perth Glory,2,1,Melbourne Victory,N,2.66,3.21,2.47,9,28-Aug-09,20:00
+1015,2009,Adelaide Utd,3,3,North Queensland,N,1.49,3.83,6.2,9,28-Aug-09,19:30
+1016,2009,Perth Glory,2,0,Newcastle Jets,N,2.15,3.22,3.17,9,23-Aug-09,15:00
+1017,2009,Brisbane Roar,1,1,Wellington Phoenix,N,1.7,3.5,4.62,9,23-Aug-09,15:00
+1018,2009,North Queensland,0,1,Melbourne Victory,N,4.35,3.37,1.78,8,22-Aug-09,17:00
+1019,2009,Central Coast Mariners,0,0,Sydney FC,N,2.67,3.17,2.49,9,22-Aug-09,15:00
+1020,2009,Adelaide Utd,0,2,Gold Coast,N,2.61,3.2,2.53,8,21-Aug-09,19:30
+1021,2009,Sydney FC,1,0,Adelaide Utd,N,1.99,3.28,3.5,9,16-Aug-09,17:00
+1022,2009,Wellington Phoenix,2,1,Perth Glory,N,2.4,3.2,2.77,9,16-Aug-09,17:00
+1023,2009,Melbourne Victory,3,3,Brisbane Roar,N,2.01,3.31,3.36,7,15-Aug-09,19:30
+1024,2009,Gold Coast,5,0,North Queensland,N,1.51,3.63,6.07,7,15-Aug-09,17:30
+1025,2009,Central Coast Mariners,1,1,Newcastle Jets,N,1.96,3.3,3.58,9,14-Aug-09,20:00
+1026,2009,Newcastle Jets,3,2,Wellington Phoenix,N,2,3.3,3.54,9,09-Aug-09,15:00
+1027,2009,Brisbane Roar,1,3,Gold Coast,N,2.27,3.28,2.87,8,08-Aug-09,19:30
+1028,2009,North Queensland,2,3,Sydney FC,N,3.52,3.23,2.02,9,08-Aug-09,17:30
+1029,2009,Adelaide Utd,1,0,Perth Glory,N,1.89,3.35,3.79,9,07-Aug-09,20:00
+1030,2009,Melbourne Victory,0,2,Central Coast Mariners,N,1.58,3.66,5.45,9,06-Aug-09,19:30
+1031,2009,Melbourne Victory,1,0,Adelaide Utd,Y,1.67,3.49,5,8,28-Feb-09,19:30
+1032,2009,Adelaide Utd,1,0,Brisbane Roar,Y,2.56,3.21,2.6,8,21-Feb-09,18:30
+1033,2009,Melbourne Victory,4,0,Adelaide Utd,Y,1.82,3.41,4.08,8,14-Feb-09,19:30
+1034,2009,Brisbane Roar,2,1,Central Coast Mariners,Y,1.9,3.36,3.79,8,13-Feb-09,19:30
+1035,2009,Adelaide Utd,0,2,Melbourne Victory,Y,2.38,3.19,2.81,7,07-Feb-09,18:30
+1036,2009,Central Coast Mariners,0,2,Brisbane Roar,Y,2.44,3.21,2.71,7,06-Feb-09,20:00
+1037,2009,Central Coast Mariners,0,1,Adelaide Utd,N,3.32,3.29,2.06,8,25-Jan-09,19:00
+1038,2009,Sydney FC,4,0,Newcastle Jets,N,1.77,3.43,4.41,8,25-Jan-09,17:00
+1039,2009,Brisbane Roar,4,2,Perth Glory,N,1.36,4.23,8.13,8,24-Jan-09,20:00
+1040,2009,Melbourne Victory,2,0,Wellington Phoenix,N,1.48,3.86,6.55,7,23-Jan-09,20:00
+1041,2009,Newcastle Jets,2,1,Perth Glory,N,2.19,3.29,3.1,8,18-Jan-09,17:00
+1042,2009,Wellington Phoenix,1,1,Adelaide Utd,N,2.93,3.32,2.29,7,18-Jan-09,17:00
+1043,2009,Brisbane Roar,3,1,Sydney FC,N,1.91,3.33,3.73,8,17-Jan-09,19:00
+1044,2009,Melbourne Victory,3,0,Central Coast Mariners,N,1.85,3.35,3.93,7,16-Jan-09,20:00
+1045,2009,Adelaide Utd,0,0,Brisbane Roar,N,2.05,3.27,3.4,7,14-Jan-09,19:30
+1046,2009,Perth Glory,3,2,Melbourne Victory,N,3.14,3.24,2.1,7,11-Jan-09,18:00
+1047,2009,Sydney FC,1,0,Wellington Phoenix,N,2.05,3.24,3.3,8,11-Jan-09,18:00
+1048,2009,Central Coast Mariners,3,4,Brisbane Roar,N,2.29,3.19,2.85,8,10-Jan-09,19:00
+1049,2009,Adelaide Utd,2,0,Newcastle Jets,N,1.5,3.72,6.16,7,09-Jan-09,19:30
+1050,2009,Melbourne Victory,1,0,Adelaide Utd,N,2.16,3.17,3.15,8,06-Jan-09,19:30
+1051,2009,Wellington Phoenix,3,0,Newcastle Jets,N,1.87,3.31,3.89,8,04-Jan-09,19:00
+1052,2009,Adelaide Utd,2,0,Sydney FC,N,1.79,3.29,4.13,8,03-Jan-09,19:30
+1053,2009,Melbourne Victory,2,1,Brisbane Roar,N,2.1,3.26,3.12,8,02-Jan-09,20:00
+1054,2008,Central Coast Mariners,1,0,Perth Glory,N,1.69,3.39,4.64,8,31-Dec-08,18:00
+1055,2008,Brisbane Roar,3,2,Wellington Phoenix,N,1.79,3.27,4.15,8,28-Dec-08,18:00
+1056,2008,Melbourne Victory,3,2,Sydney FC,N,1.86,3.26,3.85,8,27-Dec-08,19:00
+1057,2008,Perth Glory,0,1,Adelaide Utd,N,2.76,3.22,2.33,8,26-Dec-08,20:00
+1058,2008,Newcastle Jets,1,2,Central Coast Mariners,N,2.41,3.19,2.66,8,26-Dec-08,20:00
+1059,2008,Sydney FC,1,4,Perth Glory,N,1.7,3.39,4.53,8,21-Dec-08,17:00
+1060,2008,Newcastle Jets,4,2,Melbourne Victory,N,3.94,3.26,1.84,8,19-Dec-08,20:00
+1061,2008,Wellington Phoenix,1,0,Central Coast Mariners,N,2.51,3.17,2.57,8,19-Dec-08,19:30
+1062,2008,Brisbane Roar,2,1,Newcastle Jets,N,1.93,3.24,3.7,8,14-Dec-08,18:00
+1063,2008,Central Coast Mariners,2,1,Sydney FC,N,2.28,3.21,2.83,8,13-Dec-08,19:00
+1064,2008,Wellington Phoenix,1,1,Perth Glory,N,2.02,3.32,3.29,8,13-Dec-08,19:00
+1065,2008,Newcastle Jets,1,2,Sydney FC,N,2.46,3.14,2.61,8,07-Dec-08,17:00
+1066,2008,Perth Glory,3,1,Melbourne Victory,N,3.29,3.23,2.04,8,06-Dec-08,18:00
+1067,2008,Central Coast Mariners,1,1,Brisbane Roar,N,2.39,3.21,2.66,8,06-Dec-08,18:00
+1068,2008,Adelaide Utd,6,1,Wellington Phoenix,N,1.7,3.38,4.68,7,05-Dec-08,19:30
+1069,2008,Newcastle Jets,1,1,Adelaide Utd,N,3.41,3.25,2.01,7,30-Nov-08,17:00
+1070,2008,Perth Glory,2,2,Central Coast Mariners,N,3.3,3.23,2.06,7,29-Nov-08,18:00
+1071,2008,Sydney FC,1,1,Brisbane Roar,N,2.38,3.18,2.75,7,28-Nov-08,20:00
+1072,2008,Wellington Phoenix,2,1,Melbourne Victory,N,3.45,3.25,1.99,7,28-Nov-08,19:30
+1073,2008,Brisbane Roar,4,1,Perth Glory,N,1.69,3.41,4.73,7,23-Nov-08,17:00
+1074,2008,Wellington Phoenix,2,0,Newcastle Jets,N,2.18,3.25,3.05,7,23-Nov-08,18:00
+1075,2008,Adelaide Utd,2,0,Sydney FC,N,2.27,3.23,2.88,7,22-Nov-08,18:30
+1076,2008,Melbourne Victory,2,1,Central Coast Mariners,N,1.98,3.26,3.43,7,21-Nov-08,20:00
+1077,2008,Central Coast Mariners,3,0,Adelaide Utd,N,2.17,3.22,3.04,7,15-Nov-08,19:30
+1078,2008,Perth Glory,2,2,Newcastle Jets,N,2.25,3.18,2.83,4,09-Nov-08,17:00
+1079,2008,Brisbane Roar,0,1,Melbourne Victory,N,2.74,3.16,2.34,5,08-Nov-08,19:00
+1080,2008,Sydney FC,1,2,Wellington Phoenix,N,1.45,3.75,6.4,4,07-Nov-08,20:00
+1081,2008,Perth Glory,2,0,Wellington Phoenix,N,2.14,3.18,3.06,6,02-Nov-08,17:00
+1082,2008,Newcastle Jets,1,2,Brisbane Roar,N,2.29,3.18,2.8,5,02-Nov-08,17:00
+1083,2008,Sydney FC,3,3,Central Coast Mariners,N,1.98,3.27,3.34,6,01-Nov-08,19:00
+1084,2008,Adelaide Utd,2,3,Melbourne Victory,N,2.05,3.18,3.28,6,31-Oct-08,19:30
+1085,2008,Adelaide Utd,2,1,Perth Glory,N,1.77,3.29,4.12,6,26-Oct-08,16:30
+1086,2008,Wellington Phoenix,0,1,Brisbane Roar,N,2.47,3.13,2.6,6,26-Oct-08,17:00
+1087,2008,Melbourne Victory,0,2,Sydney FC,N,1.98,3.22,3.4,6,25-Oct-08,19:00
+1088,2008,Central Coast Mariners,1,0,Newcastle Jets,N,2.18,3.19,2.99,5,24-Oct-08,20:00
+1089,2008,Perth Glory,2,1,Sydney FC,N,3.59,3.27,1.92,5,19-Oct-08,14:00
+1090,2008,Central Coast Mariners,0,1,Wellington Phoenix,N,1.68,3.38,4.53,5,19-Oct-08,15:00
+1091,2008,Newcastle Jets,1,0,Melbourne Victory,N,3.1,3.2,2.1,4,18-Oct-08,19:00
+1092,2008,Brisbane Roar,0,1,Adelaide Utd,N,2.22,3.13,2.97,5,17-Oct-08,19:30
+1093,2008,Newcastle Jets,2,2,Wellington Phoenix,N,1.94,3.24,3.55,5,06-Oct-08,15:00
+1094,2008,Sydney FC,1,1,Brisbane Roar,N,1.89,3.22,3.72,6,04-Oct-08,19:00
+1095,2008,Melbourne Victory,4,0,Perth Glory,N,1.48,3.68,6.48,6,04-Oct-08,17:00
+1096,2008,Adelaide Utd,3,3,Central Coast Mariners,N,2.07,3.2,3.2,6,03-Oct-08,19:30
+1097,2008,Melbourne Victory,0,2,Brisbane Roar,N,1.78,3.26,4.17,6,28-Sep-08,17:00
+1098,2008,Wellington Phoenix,2,1,Sydney FC,N,4.05,3.24,1.81,6,28-Sep-08,17:00
+1099,2008,Adelaide Utd,2,0,Newcastle Jets,N,2.11,3.15,3.15,5,27-Sep-08,18:30
+1100,2008,Central Coast Mariners,4,1,Perth Glory,N,1.61,3.42,5.06,6,26-Sep-08,20:00
+1101,2008,Perth Glory,1,0,Wellington Phoenix,N,2.16,3.11,3.07,6,21-Sep-08,15:00
+1102,2008,Sydney FC,3,0,Adelaide Utd,N,1.76,3.32,4.15,6,20-Sep-08,17:00
+1103,2008,Brisbane Roar,0,1,Newcastle Jets,N,2.13,3.16,3.1,5,19-Sep-08,20:00
+1104,2008,Perth Glory,0,3,Brisbane Roar,N,2.59,3.19,2.45,6,14-Sep-08,15:00
+1105,2008,Wellington Phoenix,0,0,Central Coast Mariners,N,2.57,3.19,2.47,6,14-Sep-08,17:00
+1106,2008,Newcastle Jets,0,0,Sydney FC,N,2.84,3.2,2.26,5,13-Sep-08,19:00
+1107,2008,Melbourne Victory,1,0,Adelaide Utd,N,1.92,3.2,3.61,6,12-Sep-08,18:00
+1108,2008,Brisbane Roar,2,4,Central Coast Mariners,N,2.22,3.14,2.94,6,31-Aug-08,17:00
+1109,2008,Sydney FC,5,2,Perth Glory,N,1.66,3.4,4.66,6,31-Aug-08,15:00
+1110,2008,Adelaide Utd,3,0,Wellington Phoenix,N,1.75,3.34,4.22,6,30-Aug-08,18:30
+1111,2008,Melbourne Victory,5,0,Newcastle Jets,N,1.78,3.35,4.03,4,29-Aug-08,18:00
